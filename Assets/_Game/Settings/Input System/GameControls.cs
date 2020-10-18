@@ -20,7 +20,7 @@ public class @GameControls : IInputActionCollection, IDisposable
             ""actions"": [
                 {
                     ""name"": ""Move"",
-                    ""type"": ""Value"",
+                    ""type"": ""PassThrough"",
                     ""id"": ""6198c365-d96e-4abe-ba26-dcd810e6f748"",
                     ""expectedControlType"": ""Vector2"",
                     ""processors"": """",
@@ -29,7 +29,7 @@ public class @GameControls : IInputActionCollection, IDisposable
             ],
             ""bindings"": [
                 {
-                    ""name"": ""2D Vector"",
+                    ""name"": ""WASD"",
                     ""id"": ""7351b47a-b485-4908-941e-6793d6942ddc"",
                     ""path"": ""2DVector"",
                     ""interactions"": """",

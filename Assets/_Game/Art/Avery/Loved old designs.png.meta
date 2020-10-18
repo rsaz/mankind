@@ -1,0 +1,3916 @@
+fileFormatVersion: 2
+guid: fde2f041e39ffb6439b140cb74c8c0dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5475037800700469260
+    second: Loved old designs_0
+  - first:
+      213: -287001183048651888
+    second: Loved old designs_1
+  - first:
+      213: -6152625011927663980
+    second: Loved old designs_2
+  - first:
+      213: 7803243111504928471
+    second: Loved old designs_3
+  - first:
+      213: -7111179358701564204
+    second: Loved old designs_4
+  - first:
+      213: 515784829485462
+    second: Loved old designs_5
+  - first:
+      213: 726379053844793589
+    second: Loved old designs_6
+  - first:
+      213: -6367456083618233937
+    second: Loved old designs_7
+  - first:
+      213: 1171091804014071601
+    second: Loved old designs_8
+  - first:
+      213: -2480294654515421661
+    second: Loved old designs_9
+  - first:
+      213: 2748699945393963420
+    second: Loved old designs_10
+  - first:
+      213: 7547771622706839929
+    second: Loved old designs_11
+  - first:
+      213: -6181211697425413331
+    second: Loved old designs_12
+  - first:
+      213: 2810213579881256677
+    second: Loved old designs_13
+  - first:
+      213: 87789795728087783
+    second: Loved old designs_14
+  - first:
+      213: 7089073124553720024
+    second: Loved old designs_15
+  - first:
+      213: 7505839999225006322
+    second: Loved old designs_16
+  - first:
+      213: -2810967652829233814
+    second: Loved old designs_17
+  - first:
+      213: -3587927239602103723
+    second: Loved old designs_18
+  - first:
+      213: -9016918307481873939
+    second: Loved old designs_19
+  - first:
+      213: 1711732818616567335
+    second: Loved old designs_20
+  - first:
+      213: -7175475918418795716
+    second: Loved old designs_21
+  - first:
+      213: 2155675073866584538
+    second: Loved old designs_22
+  - first:
+      213: -6008573356185727939
+    second: Loved old designs_23
+  - first:
+      213: 2604420742369328791
+    second: Loved old designs_24
+  - first:
+      213: 6168099572979523571
+    second: Loved old designs_25
+  - first:
+      213: -5458042348829537512
+    second: Loved old designs_26
+  - first:
+      213: -8187375765802113236
+    second: Loved old designs_27
+  - first:
+      213: 5215066748528907341
+    second: Loved old designs_28
+  - first:
+      213: -7318852749461840653
+    second: Loved old designs_29
+  - first:
+      213: 7294582252608325633
+    second: Loved old designs_30
+  - first:
+      213: 5370769201839377856
+    second: Loved old designs_31
+  - first:
+      213: 5537859571831064765
+    second: Loved old designs_32
+  - first:
+      213: 4645558850612520290
+    second: Loved old designs_33
+  - first:
+      213: 6713138402321782988
+    second: Loved old designs_34
+  - first:
+      213: 3851440670862984834
+    second: Loved old designs_35
+  - first:
+      213: 4706786637101384359
+    second: Loved old designs_36
+  - first:
+      213: -4038977760243385695
+    second: Loved old designs_37
+  - first:
+      213: 5464514676110491557
+    second: Loved old designs_38
+  - first:
+      213: 280547710411422284
+    second: Loved old designs_39
+  - first:
+      213: 855167124053131247
+    second: Loved old designs_40
+  - first:
+      213: -3854436618879950769
+    second: Loved old designs_41
+  - first:
+      213: -2238484596980680395
+    second: Loved old designs_42
+  - first:
+      213: 6646651062114548967
+    second: Loved old designs_43
+  - first:
+      213: 2018025295667698898
+    second: Loved old designs_44
+  - first:
+      213: -3581532467008893970
+    second: Loved old designs_45
+  - first:
+      213: 3843784572674368115
+    second: Loved old designs_46
+  - first:
+      213: 2074313403801219
+    second: Loved old designs_47
+  - first:
+      213: 5698955952835140068
+    second: Loved old designs_48
+  - first:
+      213: -6254293264693193503
+    second: Loved old designs_49
+  - first:
+      213: -6515893322674719367
+    second: Loved old designs_50
+  - first:
+      213: 5554632673464819405
+    second: Loved old designs_51
+  - first:
+      213: 51642437980865180
+    second: Loved old designs_52
+  - first:
+      213: -395138329248962327
+    second: Loved old designs_53
+  - first:
+      213: -5810752049090352084
+    second: Loved old designs_54
+  - first:
+      213: -2416371084281130236
+    second: Loved old designs_55
+  - first:
+      213: -832800650909262353
+    second: Loved old designs_56
+  - first:
+      213: -5014410706383634386
+    second: Loved old designs_57
+  - first:
+      213: 5723108210084447772
+    second: Loved old designs_58
+  - first:
+      213: 2004042789436006872
+    second: Loved old designs_59
+  - first:
+      213: -4979454706899161628
+    second: Loved old designs_60
+  - first:
+      213: -2578160004723235736
+    second: Loved old designs_61
+  - first:
+      213: 1583747140814444462
+    second: Loved old designs_62
+  - first:
+      213: -9165388878267553410
+    second: Loved old designs_63
+  - first:
+      213: 8238880426756079251
+    second: Loved old designs_64
+  - first:
+      213: -8404370962435922363
+    second: Loved old designs_65
+  - first:
+      213: 1322480052290100818
+    second: Loved old designs_66
+  - first:
+      213: -2657560177736427912
+    second: Loved old designs_67
+  - first:
+      213: -6266706192608698274
+    second: Loved old designs_68
+  - first:
+      213: -3811938467761364401
+    second: Loved old designs_69
+  - first:
+      213: 8736493842042947797
+    second: Loved old designs_70
+  - first:
+      213: -22050590668163696
+    second: Loved old designs_71
+  - first:
+      213: 2383902868042343905
+    second: Loved old designs_72
+  - first:
+      213: -2556606538495235710
+    second: Loved old designs_73
+  - first:
+      213: -1750389972676971937
+    second: Loved old designs_74
+  - first:
+      213: 5637964743400499828
+    second: Loved old designs_75
+  - first:
+      213: 2912506303125624881
+    second: Loved old designs_76
+  - first:
+      213: 8680129716361351266
+    second: Loved old designs_77
+  - first:
+      213: -5079850390697295574
+    second: Loved old designs_78
+  - first:
+      213: 7797943482599960287
+    second: Loved old designs_79
+  - first:
+      213: 2353548966180209231
+    second: Loved old designs_80
+  - first:
+      213: -632073199337930732
+    second: Loved old designs_81
+  - first:
+      213: 1372020956634968025
+    second: Loved old designs_82
+  - first:
+      213: -4215090114640160537
+    second: Loved old designs_83
+  - first:
+      213: -2641634214852817093
+    second: Loved old designs_84
+  - first:
+      213: 6168342869124228082
+    second: Loved old designs_85
+  - first:
+      213: -8070599622389356245
+    second: Loved old designs_86
+  - first:
+      213: -3834202549038634511
+    second: Loved old designs_87
+  - first:
+      213: 1011209945080471172
+    second: Loved old designs_88
+  - first:
+      213: -6335043519997469632
+    second: Loved old designs_89
+  - first:
+      213: 7721051382998139543
+    second: Loved old designs_90
+  - first:
+      213: 6576719557144156357
+    second: Loved old designs_91
+  - first:
+      213: 309464648084025128
+    second: Loved old designs_92
+  - first:
+      213: -6024006624109567996
+    second: Loved old designs_93
+  - first:
+      213: -8047053987707034634
+    second: Loved old designs_94
+  - first:
+      213: -7728941412381513724
+    second: Loved old designs_95
+  - first:
+      213: 1708062348308247935
+    second: Loved old designs_96
+  - first:
+      213: -32846793276171807
+    second: Loved old designs_97
+  - first:
+      213: 5334969690363728035
+    second: Loved old designs_98
+  - first:
+      213: 6781032186398585176
+    second: Loved old designs_99
+  - first:
+      213: 722597192318010779
+    second: Loved old designs_100
+  - first:
+      213: -7287465107998869336
+    second: Loved old designs_101
+  - first:
+      213: -8822840260167171627
+    second: Loved old designs_102
+  - first:
+      213: -4686050797873959464
+    second: Loved old designs_103
+  - first:
+      213: -3591513279235241122
+    second: Loved old designs_104
+  - first:
+      213: 3693669012601968655
+    second: Loved old designs_105
+  - first:
+      213: -4178440066418043569
+    second: Loved old designs_106
+  - first:
+      213: -7512809932826319376
+    second: Loved old designs_107
+  - first:
+      213: 5877391698754442112
+    second: Loved old designs_108
+  - first:
+      213: 7084347394896467658
+    second: Loved old designs_109
+  - first:
+      213: -2633414858576223433
+    second: Loved old designs_110
+  - first:
+      213: -3616811204363883540
+    second: Loved old designs_111
+  - first:
+      213: -6795552204858862589
+    second: Loved old designs_112
+  - first:
+      213: 2402004504858752958
+    second: Loved old designs_113
+  - first:
+      213: 5936904831467754029
+    second: Loved old designs_114
+  - first:
+      213: 7136874442476301038
+    second: Loved old designs_115
+  - first:
+      213: -5736605466549181521
+    second: Loved old designs_116
+  - first:
+      213: -2613442072452406941
+    second: Loved old designs_117
+  - first:
+      213: -4384847092175921097
+    second: Loved old designs_118
+  - first:
+      213: -6762277111055906363
+    second: Loved old designs_119
+  - first:
+      213: -204346673074074415
+    second: Loved old designs_120
+  - first:
+      213: -3259185014049283715
+    second: Loved old designs_121
+  - first:
+      213: 6995951744435807771
+    second: Loved old designs_122
+  - first:
+      213: -398556958919621068
+    second: Loved old designs_123
+  - first:
+      213: -4340135643363314115
+    second: Loved old designs_124
+  - first:
+      213: -3430667665189730454
+    second: Loved old designs_125
+  - first:
+      213: 3827437330128012561
+    second: Loved old designs_126
+  - first:
+      213: 1688788344873179100
+    second: Loved old designs_127
+  - first:
+      213: -9028473696859066400
+    second: Loved old designs_128
+  - first:
+      213: -5691308207472810378
+    second: Loved old designs_129
+  - first:
+      213: 2058149763010674771
+    second: Loved old designs_130
+  - first:
+      213: -698965936701592856
+    second: Loved old designs_131
+  - first:
+      213: -3612482956269599219
+    second: Loved old designs_132
+  - first:
+      213: 9173540419544802976
+    second: Loved old designs_133
+  - first:
+      213: 2341644632339557869
+    second: Loved old designs_134
+  - first:
+      213: -3691342799294205921
+    second: Loved old designs_135
+  - first:
+      213: -1559338093481114890
+    second: Loved old designs_136
+  - first:
+      213: -6558249520941695725
+    second: Loved old designs_137
+  - first:
+      213: -6685049171823977212
+    second: Loved old designs_138
+  - first:
+      213: -6681335510805947117
+    second: Loved old designs_139
+  - first:
+      213: 1592739882823510333
+    second: Loved old designs_140
+  - first:
+      213: -6271941130167327518
+    second: Loved old designs_141
+  - first:
+      213: 1119737105292373741
+    second: Loved old designs_142
+  - first:
+      213: -2613118067330999341
+    second: Loved old designs_143
+  - first:
+      213: 5589320665038738553
+    second: Loved old designs_144
+  - first:
+      213: -6710416054604109472
+    second: Loved old designs_145
+  - first:
+      213: -5086879851907263986
+    second: Loved old designs_146
+  - first:
+      213: 4413947834438573933
+    second: Loved old designs_147
+  - first:
+      213: -1576071993227603372
+    second: Loved old designs_148
+  - first:
+      213: -4873949684296535902
+    second: Loved old designs_149
+  - first:
+      213: -7940227612521051845
+    second: Loved old designs_150
+  - first:
+      213: -4806502719487241658
+    second: Loved old designs_151
+  - first:
+      213: -2428544851599540927
+    second: Loved old designs_152
+  - first:
+      213: 2918983355166264452
+    second: Loved old designs_153
+  - first:
+      213: -1775048046811594997
+    second: Loved old designs_154
+  - first:
+      213: -8634200187976729180
+    second: Loved old designs_155
+  - first:
+      213: 8746490592802478045
+    second: Loved old designs_156
+  - first:
+      213: -3696987832263383752
+    second: Loved old designs_157
+  - first:
+      213: -5174491632571277083
+    second: Loved old designs_158
+  - first:
+      213: -989236423385321828
+    second: Loved old designs_159
+  - first:
+      213: -7815477085790537825
+    second: Loved old designs_160
+  - first:
+      213: -4786452541158519897
+    second: Loved old designs_161
+  - first:
+      213: 4998652422537105246
+    second: Loved old designs_162
+  - first:
+      213: -1931439631500250218
+    second: Loved old designs_163
+  - first:
+      213: 8988486973407781949
+    second: Loved old designs_164
+  - first:
+      213: 5296406621272630888
+    second: Loved old designs_165
+  - first:
+      213: -7223106452184534224
+    second: Loved old designs_166
+  - first:
+      213: -2364878969226587439
+    second: Loved old designs_167
+  - first:
+      213: -4155395423330255757
+    second: Loved old designs_168
+  - first:
+      213: -1990588190381792165
+    second: Loved old designs_169
+  - first:
+      213: 1926477074073640928
+    second: Loved old designs_170
+  - first:
+      213: -8316964077414435169
+    second: Loved old designs_171
+  - first:
+      213: -7308825133588609592
+    second: Loved old designs_172
+  - first:
+      213: 8778093991487075589
+    second: Loved old designs_173
+  - first:
+      213: -728734278910196270
+    second: Loved old designs_174
+  - first:
+      213: -935217549323599820
+    second: Loved old designs_175
+  - first:
+      213: -4707460948762795919
+    second: Loved old designs_176
+  - first:
+      213: -5060574094008703535
+    second: Loved old designs_177
+  - first:
+      213: -3226480826243922084
+    second: Loved old designs_178
+  - first:
+      213: 5342945794032013079
+    second: Loved old designs_179
+  - first:
+      213: -6483208533785262220
+    second: Loved old designs_180
+  - first:
+      213: -2286227141419707
+    second: Loved old designs_181
+  - first:
+      213: 9041407127068982810
+    second: Loved old designs_182
+  - first:
+      213: -304139810240074678
+    second: Loved old designs_183
+  - first:
+      213: -5594849470799288542
+    second: Loved old designs_184
+  - first:
+      213: -1120115529541046361
+    second: Loved old designs_185
+  - first:
+      213: -6939677464453059192
+    second: Loved old designs_186
+  - first:
+      213: 1225953198120879576
+    second: Loved old designs_187
+  - first:
+      213: -2508865285028181937
+    second: Loved old designs_188
+  - first:
+      213: -7504891734777238182
+    second: Loved old designs_189
+  - first:
+      213: -8296312173370600850
+    second: Loved old designs_190
+  - first:
+      213: 3939962755159704605
+    second: Loved old designs_191
+  - first:
+      213: 2652926225623101455
+    second: Loved old designs_192
+  - first:
+      213: 7451231927212553999
+    second: Loved old designs_193
+  - first:
+      213: -8220323613238513827
+    second: Loved old designs_194
+  - first:
+      213: 7111207442579810155
+    second: Loved old designs_195
+  - first:
+      213: 4870525735646412415
+    second: Loved old designs_196
+  - first:
+      213: 8967645841336495037
+    second: Loved old designs_197
+  - first:
+      213: -3537422555956643727
+    second: Loved old designs_198
+  - first:
+      213: -6337198182135077492
+    second: Loved old designs_199
+  - first:
+      213: -2416853062534309340
+    second: Loved old designs_200
+  - first:
+      213: -4372077640834269091
+    second: Loved old designs_201
+  - first:
+      213: -2917835534411765356
+    second: Loved old designs_202
+  - first:
+      213: 2166977047520254230
+    second: Loved old designs_203
+  - first:
+      213: 4147997556265834191
+    second: Loved old designs_204
+  - first:
+      213: 3382915321715853582
+    second: Loved old designs_205
+  - first:
+      213: 8333314838626745369
+    second: Loved old designs_206
+  - first:
+      213: 4136517437979325598
+    second: Loved old designs_207
+  - first:
+      213: -1816280193343176550
+    second: Loved old designs_208
+  - first:
+      213: -1228167033308223185
+    second: Loved old designs_209
+  - first:
+      213: -3971030278636745376
+    second: Loved old designs_210
+  - first:
+      213: -8374585090165500234
+    second: Loved old designs_211
+  - first:
+      213: -5151667926058535093
+    second: Loved old designs_212
+  - first:
+      213: 1947986069083314713
+    second: Loved old designs_213
+  - first:
+      213: 9118131036512267131
+    second: Loved old designs_214
+  - first:
+      213: 4704042484967705099
+    second: Loved old designs_215
+  - first:
+      213: -2096550280287223646
+    second: Loved old designs_216
+  - first:
+      213: 1942981082638487758
+    second: Loved old designs_217
+  - first:
+      213: 6949320225073815311
+    second: Loved old designs_218
+  - first:
+      213: 1905428913025891634
+    second: Loved old designs_219
+  - first:
+      213: 1175565300841691545
+    second: Loved old designs_220
+  - first:
+      213: 2196537543895876278
+    second: Loved old designs_221
+  - first:
+      213: -8915799227227553595
+    second: Loved old designs_222
+  - first:
+      213: 4879986359458927393
+    second: Loved old designs_223
+  - first:
+      213: 9022013040388248466
+    second: Loved old designs_224
+  - first:
+      213: 5410826338045394550
+    second: Loved old designs_225
+  - first:
+      213: 396837879813126707
+    second: Loved old designs_226
+  - first:
+      213: 146092933579102639
+    second: Loved old designs_227
+  - first:
+      213: 323150603887948598
+    second: Loved old designs_228
+  - first:
+      213: -3553512903352135348
+    second: Loved old designs_229
+  - first:
+      213: 7682537970770657914
+    second: Loved old designs_230
+  - first:
+      213: 1367308136526638452
+    second: Loved old designs_231
+  - first:
+      213: 8353272478086133115
+    second: Loved old designs_232
+  - first:
+      213: 2456929586729673865
+    second: Loved old designs_233
+  - first:
+      213: 2458040857016809039
+    second: Loved old designs_234
+  - first:
+      213: -679003358636201768
+    second: Loved old designs_235
+  - first:
+      213: 420847888028181397
+    second: Loved old designs_236
+  - first:
+      213: 5120520957239356851
+    second: Loved old designs_237
+  - first:
+      213: -1623383309767562453
+    second: Loved old designs_238
+  - first:
+      213: -6035249915790542393
+    second: Loved old designs_239
+  - first:
+      213: 6833173653334735609
+    second: Loved old designs_240
+  - first:
+      213: -1597223738194314549
+    second: Loved old designs_241
+  - first:
+      213: 897732581531039082
+    second: Loved old designs_242
+  - first:
+      213: 3347742086943724291
+    second: Loved old designs_243
+  - first:
+      213: -6915977216134888899
+    second: Loved old designs_244
+  - first:
+      213: 229006426293921008
+    second: Loved old designs_245
+  - first:
+      213: 7041334345576180563
+    second: Loved old designs_246
+  - first:
+      213: 8812455585689360842
+    second: Loved old designs_247
+  - first:
+      213: 1031539637318252173
+    second: Loved old designs_248
+  - first:
+      213: -6560025785688291546
+    second: Loved old designs_249
+  - first:
+      213: -2372877572320825459
+    second: Loved old designs_250
+  - first:
+      213: -5773872829647461296
+    second: Loved old designs_251
+  - first:
+      213: 5707085353733024800
+    second: Loved old designs_252
+  - first:
+      213: -7250921184956879314
+    second: Loved old designs_253
+  - first:
+      213: -6635846937774202267
+    second: Loved old designs_254
+  - first:
+      213: 2283546807895697021
+    second: Loved old designs_255
+  - first:
+      213: 8565007541333809942
+    second: Loved old designs_256
+  - first:
+      213: 4210023738591114361
+    second: Loved old designs_257
+  - first:
+      213: -2122708746527388016
+    second: Loved old designs_258
+  - first:
+      213: -1919241781806698014
+    second: Loved old designs_259
+  - first:
+      213: -3977433633295559735
+    second: Loved old designs_260
+  - first:
+      213: 4024278351361063766
+    second: Loved old designs_261
+  - first:
+      213: -2533593290873322117
+    second: Loved old designs_262
+  - first:
+      213: 6034537033313054184
+    second: Loved old designs_263
+  - first:
+      213: -3558302334336027744
+    second: Loved old designs_264
+  - first:
+      213: 6768589245749393261
+    second: Loved old designs_265
+  - first:
+      213: 8032611717406103497
+    second: Loved old designs_266
+  - first:
+      213: -6175738618487040855
+    second: Loved old designs_267
+  - first:
+      213: -558510393764519105
+    second: Loved old designs_268
+  - first:
+      213: -1601004273653929188
+    second: Loved old designs_269
+  - first:
+      213: 6711009651405628560
+    second: Loved old designs_270
+  - first:
+      213: 7974913066933863358
+    second: Loved old designs_271
+  - first:
+      213: 4157841184822852915
+    second: Loved old designs_272
+  - first:
+      213: -4150673117231353651
+    second: Loved old designs_273
+  - first:
+      213: -8245168524350713475
+    second: Loved old designs_274
+  - first:
+      213: -4192084746439091532
+    second: Loved old designs_275
+  - first:
+      213: 6088603010077250857
+    second: Loved old designs_276
+  - first:
+      213: 992449266139492732
+    second: Loved old designs_277
+  - first:
+      213: 1011524173687895586
+    second: Loved old designs_278
+  - first:
+      213: -6925062710542658695
+    second: Loved old designs_279
+  - first:
+      213: 2320867767612558560
+    second: Loved old designs_280
+  - first:
+      213: 1959714125905633768
+    second: Loved old designs_281
+  - first:
+      213: -3527113305030911633
+    second: Loved old designs_282
+  - first:
+      213: -1470302639950333257
+    second: Loved old designs_283
+  - first:
+      213: -2758230393932036510
+    second: Loved old designs_284
+  - first:
+      213: -5254800533441035694
+    second: Loved old designs_285
+  - first:
+      213: 8067346506900302541
+    second: Loved old designs_286
+  - first:
+      213: -1800403503723606043
+    second: Loved old designs_287
+  - first:
+      213: -7720483294454398386
+    second: Loved old designs_288
+  - first:
+      213: 2801330716648857653
+    second: Loved old designs_289
+  - first:
+      213: 8025523180266112623
+    second: Loved old designs_290
+  - first:
+      213: -6926137768324408077
+    second: Loved old designs_291
+  - first:
+      213: -2350552958106146065
+    second: Loved old designs_292
+  - first:
+      213: -2727444702130992933
+    second: Loved old designs_293
+  - first:
+      213: 6320299952487115187
+    second: Loved old designs_294
+  - first:
+      213: 6693171517914008383
+    second: Loved old designs_295
+  - first:
+      213: 7060041382372873196
+    second: Loved old designs_296
+  - first:
+      213: -9045937748792662204
+    second: Loved old designs_297
+  - first:
+      213: 1848258118476335046
+    second: Loved old designs_298
+  - first:
+      213: -5127012258675645165
+    second: Loved old designs_299
+  - first:
+      213: 5659227505288506211
+    second: Loved old designs_300
+  - first:
+      213: -8474192887983702146
+    second: Loved old designs_301
+  - first:
+      213: -378412500283617344
+    second: Loved old designs_302
+  - first:
+      213: 5336074745544467926
+    second: Loved old designs_303
+  - first:
+      213: -5846599990097669460
+    second: Loved old designs_304
+  - first:
+      213: 2857821994902154697
+    second: Loved old designs_305
+  - first:
+      213: -7195602133870219916
+    second: Loved old designs_306
+  - first:
+      213: 1404037116366677723
+    second: Loved old designs_307
+  - first:
+      213: 3407528100334571943
+    second: Loved old designs_308
+  - first:
+      213: -2802142272484443546
+    second: Loved old designs_309
+  - first:
+      213: -6051292784817953993
+    second: Loved old designs_310
+  - first:
+      213: -8972234883766307251
+    second: Loved old designs_311
+  - first:
+      213: -4730004657796996314
+    second: Loved old designs_312
+  - first:
+      213: 5656099928615918909
+    second: Loved old designs_313
+  - first:
+      213: 1170041723629524275
+    second: Loved old designs_314
+  - first:
+      213: -5383277213749417740
+    second: Loved old designs_315
+  - first:
+      213: 2229606880794281216
+    second: Loved old designs_316
+  - first:
+      213: -8213836023760644484
+    second: Loved old designs_317
+  - first:
+      213: 1684934375211677340
+    second: Loved old designs_318
+  - first:
+      213: -753467198484760638
+    second: Loved old designs_319
+  - first:
+      213: -5619884477683735904
+    second: Loved old designs_320
+  - first:
+      213: 344797647642254019
+    second: Loved old designs_321
+  - first:
+      213: 6938427520507583051
+    second: Loved old designs_322
+  - first:
+      213: 5047886130193875929
+    second: Loved old designs_323
+  - first:
+      213: 1163705674945469195
+    second: Loved old designs_324
+  - first:
+      213: -5812324060562084926
+    second: Loved old designs_325
+  - first:
+      213: -3764944403136444521
+    second: Loved old designs_326
+  - first:
+      213: 4835022785305347356
+    second: Loved old designs_327
+  - first:
+      213: -1807876964071427324
+    second: Loved old designs_328
+  - first:
+      213: -8095209167969609112
+    second: Loved old designs_329
+  - first:
+      213: -2217416115565541119
+    second: Loved old designs_330
+  - first:
+      213: 5268164483057245789
+    second: Loved old designs_331
+  - first:
+      213: -2659390829565707661
+    second: Loved old designs_332
+  - first:
+      213: -7950605541474270512
+    second: Loved old designs_333
+  - first:
+      213: -4434451071383665669
+    second: Loved old designs_334
+  - first:
+      213: -4490104539771546134
+    second: Loved old designs_335
+  - first:
+      213: -4483623369809469322
+    second: Loved old designs_336
+  - first:
+      213: -5814503738177471150
+    second: Loved old designs_337
+  - first:
+      213: 7014034841903194088
+    second: Loved old designs_338
+  - first:
+      213: 1469699158847829529
+    second: Loved old designs_339
+  - first:
+      213: 4536916784250698755
+    second: Loved old designs_340
+  - first:
+      213: 3765812190560066528
+    second: Loved old designs_341
+  - first:
+      213: 6502628058613939806
+    second: Loved old designs_342
+  - first:
+      213: 1830626813828438564
+    second: Loved old designs_343
+  - first:
+      213: 582595589495116951
+    second: Loved old designs_344
+  - first:
+      213: -7853328632013458820
+    second: Loved old designs_345
+  - first:
+      213: 6401887712620938386
+    second: Loved old designs_346
+  - first:
+      213: -4532297816175791091
+    second: Loved old designs_347
+  - first:
+      213: 4483703346603876071
+    second: Loved old designs_348
+  - first:
+      213: -7282325864144958404
+    second: Loved old designs_349
+  - first:
+      213: 191759292243652991
+    second: Loved old designs_350
+  - first:
+      213: -1203717220418233721
+    second: Loved old designs_351
+  - first:
+      213: 8049180930332699504
+    second: Loved old designs_352
+  - first:
+      213: -2470586419749590667
+    second: Loved old designs_353
+  - first:
+      213: 3047931177596574328
+    second: Loved old designs_354
+  - first:
+      213: -6080531809957203849
+    second: Loved old designs_355
+  - first:
+      213: -6896167725311537819
+    second: Loved old designs_356
+  - first:
+      213: -5200866218956181600
+    second: Loved old designs_357
+  - first:
+      213: 2579288825886107249
+    second: Loved old designs_358
+  - first:
+      213: -5371887053239855701
+    second: Loved old designs_359
+  - first:
+      213: 3784473779617087586
+    second: Loved old designs_360
+  - first:
+      213: -3666792418356128986
+    second: Loved old designs_361
+  - first:
+      213: -4878583066705995657
+    second: Loved old designs_362
+  - first:
+      213: -730703213198468022
+    second: Loved old designs_363
+  - first:
+      213: 2566507769531815654
+    second: Loved old designs_364
+  - first:
+      213: 3577951454281476652
+    second: Loved old designs_365
+  - first:
+      213: -7069298553324689430
+    second: Loved old designs_366
+  - first:
+      213: 2942741267699145622
+    second: Loved old designs_367
+  - first:
+      213: -3445078569812021439
+    second: Loved old designs_368
+  - first:
+      213: 6212020972626880631
+    second: Loved old designs_369
+  - first:
+      213: 6186071486744734743
+    second: Loved old designs_370
+  - first:
+      213: 8094676197022377963
+    second: Loved old designs_371
+  - first:
+      213: 5506378509811021261
+    second: Loved old designs_372
+  - first:
+      213: -1009093805620746666
+    second: Loved old designs_373
+  - first:
+      213: -8770112794039945745
+    second: Loved old designs_374
+  - first:
+      213: -47362081281348003
+    second: Loved old designs_375
+  - first:
+      213: 7432354468852062071
+    second: Loved old designs_376
+  - first:
+      213: 3488214685206286374
+    second: Loved old designs_377
+  - first:
+      213: -1415294703913729968
+    second: Loved old designs_378
+  - first:
+      213: -3098353133573055781
+    second: Loved old designs_379
+  - first:
+      213: -4526533972740344412
+    second: Loved old designs_380
+  - first:
+      213: -5610326938711578462
+    second: Loved old designs_381
+  - first:
+      213: -2997609550170528766
+    second: Loved old designs_382
+  - first:
+      213: 7008289883674908255
+    second: Loved old designs_383
+  - first:
+      213: 3486067408342310571
+    second: Loved old designs_384
+  - first:
+      213: 2801121741612888573
+    second: Loved old designs_385
+  - first:
+      213: 4835475181926130382
+    second: Loved old designs_386
+  - first:
+      213: 4485421519322837961
+    second: Loved old designs_387
+  - first:
+      213: -1104169266201475771
+    second: Loved old designs_388
+  - first:
+      213: 8776322443779994044
+    second: Loved old designs_389
+  - first:
+      213: -2551158101481215905
+    second: Loved old designs_390
+  - first:
+      213: -4620374031454270653
+    second: Loved old designs_391
+  - first:
+      213: -7465903670997340549
+    second: Loved old designs_392
+  - first:
+      213: 8075045034707573481
+    second: Loved old designs_393
+  - first:
+      213: -7045592699752422863
+    second: Loved old designs_394
+  - first:
+      213: 840431655025655558
+    second: Loved old designs_395
+  - first:
+      213: 4763825260826987138
+    second: Loved old designs_396
+  - first:
+      213: 3375843170938529929
+    second: Loved old designs_397
+  - first:
+      213: -8592796742692882767
+    second: Loved old designs_398
+  - first:
+      213: 7249677549451465542
+    second: Loved old designs_399
+  - first:
+      213: 5734947908338056958
+    second: Loved old designs_400
+  - first:
+      213: 2931560613711935811
+    second: Loved old designs_401
+  - first:
+      213: -780040993290600087
+    second: Loved old designs_402
+  - first:
+      213: -7020055268686379184
+    second: Loved old designs_403
+  - first:
+      213: 8404501248345213618
+    second: Loved old designs_404
+  - first:
+      213: -2458392308578122124
+    second: Loved old designs_405
+  - first:
+      213: 4775874422239844242
+    second: Loved old designs_406
+  - first:
+      213: 8194995571314487694
+    second: Loved old designs_407
+  - first:
+      213: -1567985573508260633
+    second: Loved old designs_408
+  - first:
+      213: -5641219162326911632
+    second: Loved old designs_409
+  - first:
+      213: -711237078199595739
+    second: Loved old designs_410
+  - first:
+      213: 8378953535507752906
+    second: Loved old designs_411
+  - first:
+      213: 5768167026847425186
+    second: Loved old designs_412
+  - first:
+      213: 7871573362259668392
+    second: Loved old designs_413
+  - first:
+      213: -1524648469217475306
+    second: Loved old designs_414
+  - first:
+      213: -84476464174939165
+    second: Loved old designs_415
+  - first:
+      213: -4650237693534970175
+    second: Loved old designs_416
+  - first:
+      213: 2625810276364217759
+    second: Loved old designs_417
+  - first:
+      213: -3103492853558423604
+    second: Loved old designs_418
+  - first:
+      213: -7753974868461691521
+    second: Loved old designs_419
+  - first:
+      213: 4016822449054184983
+    second: Loved old designs_420
+  - first:
+      213: 8624163534575373018
+    second: Loved old designs_421
+  - first:
+      213: 1206785805680173561
+    second: Loved old designs_422
+  - first:
+      213: -798161542523604755
+    second: Loved old designs_423
+  - first:
+      213: -5976088750050537729
+    second: Loved old designs_424
+  - first:
+      213: -7914788036987947849
+    second: Loved old designs_425
+  - first:
+      213: 7219573499134670841
+    second: Loved old designs_426
+  - first:
+      213: -7153448403846238276
+    second: Loved old designs_427
+  - first:
+      213: 2813322853798627641
+    second: Loved old designs_428
+  - first:
+      213: -525588166408606196
+    second: Loved old designs_429
+  - first:
+      213: 7196852039788374147
+    second: Loved old designs_430
+  - first:
+      213: 444956475712969490
+    second: Loved old designs_431
+  - first:
+      213: 7648171988327077053
+    second: Loved old designs_432
+  - first:
+      213: 7246574674875375540
+    second: Loved old designs_433
+  - first:
+      213: -119853796567790402
+    second: Loved old designs_434
+  - first:
+      213: 1368392434055525175
+    second: Loved old designs_435
+  - first:
+      213: 7379214573397941984
+    second: Loved old designs_436
+  - first:
+      213: -3421951519772534292
+    second: Loved old designs_437
+  - first:
+      213: 2136064594258626422
+    second: Loved old designs_438
+  - first:
+      213: -7492733198996745271
+    second: Loved old designs_439
+  - first:
+      213: -3102453763001483070
+    second: Loved old designs_440
+  - first:
+      213: -128069053723722941
+    second: Loved old designs_441
+  - first:
+      213: 7581986718433826016
+    second: Loved old designs_442
+  - first:
+      213: -5166455610686573591
+    second: Loved old designs_443
+  - first:
+      213: 4374330231840738692
+    second: Loved old designs_444
+  - first:
+      213: -4123104836653709071
+    second: Loved old designs_445
+  - first:
+      213: 5553085493665892654
+    second: Loved old designs_446
+  - first:
+      213: 3123777536406167251
+    second: Loved old designs_447
+  - first:
+      213: -727232538524414295
+    second: Loved old designs_448
+  - first:
+      213: -1340594225001622577
+    second: Loved old designs_449
+  - first:
+      213: 7285690896859910932
+    second: Loved old designs_450
+  - first:
+      213: 5987727044044157558
+    second: Loved old designs_451
+  - first:
+      213: 4228950877702178577
+    second: Loved old designs_452
+  - first:
+      213: -1978317764456565112
+    second: Loved old designs_453
+  - first:
+      213: 3135154378131420713
+    second: Loved old designs_454
+  - first:
+      213: 1157698101928702137
+    second: Loved old designs_455
+  - first:
+      213: 8980701697477280090
+    second: Loved old designs_456
+  - first:
+      213: -9001359935416054762
+    second: Loved old designs_457
+  - first:
+      213: 8160053807111255078
+    second: Loved old designs_458
+  - first:
+      213: -9005893374741352285
+    second: Loved old designs_459
+  - first:
+      213: -5510719243124415182
+    second: Loved old designs_460
+  - first:
+      213: 7937600693231418349
+    second: Loved old designs_461
+  - first:
+      213: -5476574913063137076
+    second: Loved old designs_462
+  - first:
+      213: 8864821987501525798
+    second: Loved old designs_463
+  - first:
+      213: -4520718991253638237
+    second: Loved old designs_464
+  - first:
+      213: -1535976802445920575
+    second: Loved old designs_465
+  - first:
+      213: -5766874284437478713
+    second: Loved old designs_466
+  - first:
+      213: 7450085640994438820
+    second: Loved old designs_467
+  - first:
+      213: 2584435844606655089
+    second: Loved old designs_468
+  - first:
+      213: -819152934571876447
+    second: Loved old designs_469
+  - first:
+      213: -8507154082102568840
+    second: Loved old designs_470
+  - first:
+      213: -326611134975824463
+    second: Loved old designs_471
+  - first:
+      213: 557196994220694574
+    second: Loved old designs_472
+  - first:
+      213: 6574745826496018035
+    second: Loved old designs_473
+  - first:
+      213: -4345843793416666208
+    second: Loved old designs_474
+  - first:
+      213: 6025259432952589197
+    second: Loved old designs_475
+  - first:
+      213: -399186935464892226
+    second: Loved old designs_476
+  - first:
+      213: 4841213824557056933
+    second: Loved old designs_477
+  - first:
+      213: 1774381583271682497
+    second: Loved old designs_478
+  - first:
+      213: -726641711188345977
+    second: Loved old designs_479
+  - first:
+      213: -7369123051621059419
+    second: Loved old designs_480
+  - first:
+      213: -5552316722239223053
+    second: Loved old designs_481
+  - first:
+      213: 350539301000997539
+    second: Loved old designs_482
+  - first:
+      213: -2462897054695936768
+    second: Loved old designs_483
+  - first:
+      213: -3804143112155092209
+    second: Loved old designs_484
+  - first:
+      213: 1918540931946268437
+    second: Loved old designs_485
+  - first:
+      213: 213872586858996105
+    second: Loved old designs_486
+  - first:
+      213: 1005027677422192183
+    second: Loved old designs_487
+  - first:
+      213: -7965578623325225866
+    second: Loved old designs_488
+  - first:
+      213: -8004185449479207912
+    second: Loved old designs_489
+  - first:
+      213: 8229933871079164643
+    second: Loved old designs_490
+  - first:
+      213: 4788498631956686693
+    second: Loved old designs_491
+  - first:
+      213: -5862662606309475256
+    second: Loved old designs_492
+  - first:
+      213: -757832527713580697
+    second: Loved old designs_493
+  - first:
+      213: -672113506378829145
+    second: Loved old designs_494
+  - first:
+      213: -1559611306230077022
+    second: Loved old designs_495
+  - first:
+      213: 8719693241905379853
+    second: Loved old designs_496
+  - first:
+      213: -6915070637295611080
+    second: Loved old designs_497
+  - first:
+      213: -5016864545120694956
+    second: Loved old designs_498
+  - first:
+      213: 1260015916052611531
+    second: Loved old designs_499
+  - first:
+      213: -7095497655961132125
+    second: Loved old designs_500
+  - first:
+      213: 1498883533943297305
+    second: Loved old designs_501
+  - first:
+      213: -3019588549137421171
+    second: Loved old designs_502
+  - first:
+      213: -7859950857501724631
+    second: Loved old designs_503
+  - first:
+      213: -3384137763633332104
+    second: Loved old designs_504
+  - first:
+      213: -2017585510336130855
+    second: Loved old designs_505
+  - first:
+      213: 1760175863997643471
+    second: Loved old designs_506
+  - first:
+      213: -880774137909592325
+    second: Loved old designs_507
+  - first:
+      213: 4222908592552281331
+    second: Loved old designs_508
+  - first:
+      213: 7189744533690821999
+    second: Loved old designs_509
+  - first:
+      213: -1867780804557449218
+    second: Loved old designs_510
+  - first:
+      213: 1174263567925730325
+    second: Loved old designs_511
+  - first:
+      213: 4192976510888231537
+    second: Loved old designs_512
+  - first:
+      213: -6656564750509085359
+    second: Loved old designs_513
+  - first:
+      213: -2555833304069266638
+    second: Loved old designs_514
+  - first:
+      213: -4387967380620656385
+    second: Loved old designs_515
+  - first:
+      213: -6974123121816925809
+    second: Loved old designs_516
+  - first:
+      213: -8029145486044858637
+    second: Loved old designs_517
+  - first:
+      213: -5156091272068250451
+    second: Loved old designs_518
+  - first:
+      213: -3334222180877637012
+    second: Loved old designs_519
+  - first:
+      213: 684978159719160164
+    second: Loved old designs_520
+  - first:
+      213: -3830484196343782737
+    second: Loved old designs_521
+  - first:
+      213: -8001047710702341479
+    second: Loved old designs_522
+  - first:
+      213: 4282461985883984906
+    second: Loved old designs_523
+  - first:
+      213: -7182026318605318480
+    second: Loved old designs_524
+  - first:
+      213: 6251708017123002176
+    second: Loved old designs_525
+  - first:
+      213: -7481989812026412658
+    second: Loved old designs_526
+  - first:
+      213: 2449452106118848897
+    second: Loved old designs_527
+  - first:
+      213: -756342877194679045
+    second: Loved old designs_528
+  - first:
+      213: 4608906897024561501
+    second: Loved old designs_529
+  - first:
+      213: 7128894043188079681
+    second: Loved old designs_530
+  - first:
+      213: 352583289016377789
+    second: Loved old designs_531
+  - first:
+      213: -501537975581617473
+    second: Loved old designs_532
+  - first:
+      213: -3435014458769503116
+    second: Loved old designs_533
+  - first:
+      213: 5637457802479535717
+    second: Loved old designs_534
+  - first:
+      213: -7304478083996063766
+    second: Loved old designs_535
+  - first:
+      213: -7441912101651423665
+    second: Loved old designs_536
+  - first:
+      213: 1018183065059288377
+    second: Loved old designs_537
+  - first:
+      213: 4041282479718848161
+    second: Loved old designs_538
+  - first:
+      213: -3612447964520353567
+    second: Loved old designs_539
+  - first:
+      213: -7538981599330041295
+    second: Loved old designs_540
+  - first:
+      213: 92936116998873431
+    second: Loved old designs_541
+  - first:
+      213: 1230212063396470487
+    second: Loved old designs_542
+  - first:
+      213: 5050300084716409362
+    second: Loved old designs_543
+  - first:
+      213: -7167486483403515655
+    second: Loved old designs_544
+  - first:
+      213: 1220435210266268883
+    second: Loved old designs_545
+  - first:
+      213: -1526547352192780847
+    second: Loved old designs_546
+  - first:
+      213: -8016872858367254203
+    second: Loved old designs_547
+  - first:
+      213: -840773388443334541
+    second: Loved old designs_548
+  - first:
+      213: -7969439601817034565
+    second: Loved old designs_549
+  - first:
+      213: 6246543624154586337
+    second: Loved old designs_550
+  - first:
+      213: -6305091565168350843
+    second: Loved old designs_551
+  - first:
+      213: 626752403494717926
+    second: Loved old designs_552
+  - first:
+      213: -7253403282990044137
+    second: Loved old designs_553
+  - first:
+      213: 1386083903062302295
+    second: Loved old designs_554
+  - first:
+      213: -2723509858364953781
+    second: Loved old designs_555
+  - first:
+      213: 982809163373360421
+    second: Loved old designs_556
+  - first:
+      213: -2928057098501533562
+    second: Loved old designs_557
+  - first:
+      213: 7360062379924453422
+    second: Loved old designs_558
+  - first:
+      213: 2813801961835417163
+    second: Loved old designs_559
+  - first:
+      213: 1692002593822625219
+    second: Loved old designs_560
+  - first:
+      213: -1454554303088331741
+    second: Loved old designs_561
+  - first:
+      213: -8219676631316011005
+    second: Loved old designs_562
+  - first:
+      213: -3980159424643421880
+    second: Loved old designs_563
+  - first:
+      213: 6824936126049389885
+    second: Loved old designs_564
+  - first:
+      213: 6323928018125505563
+    second: Loved old designs_565
+  - first:
+      213: -8180708445225619849
+    second: Loved old designs_566
+  - first:
+      213: 8399127445138337201
+    second: Loved old designs_567
+  - first:
+      213: -4603236205224320834
+    second: Loved old designs_568
+  - first:
+      213: 1306681821649306686
+    second: Loved old designs_569
+  - first:
+      213: 1665158518564987450
+    second: Loved old designs_570
+  - first:
+      213: 95858026035275042
+    second: Loved old designs_571
+  - first:
+      213: -7779838350911433073
+    second: Loved old designs_572
+  - first:
+      213: -8525484259597830034
+    second: Loved old designs_573
+  - first:
+      213: -9053699162704810923
+    second: Loved old designs_574
+  - first:
+      213: 3073097265705913735
+    second: Loved old designs_575
+  - first:
+      213: 3636168708735895240
+    second: Loved old designs_576
+  - first:
+      213: 844997392437781857
+    second: Loved old designs_577
+  - first:
+      213: 7174712406705407010
+    second: Loved old designs_578
+  - first:
+      213: 4469932472957372269
+    second: Loved old designs_579
+  - first:
+      213: 8388667548007143811
+    second: Loved old designs_580
+  - first:
+      213: -3900333039191430122
+    second: Loved old designs_581
+  - first:
+      213: 1066013911640891863
+    second: Loved old designs_582
+  - first:
+      213: 1062214775327281188
+    second: Loved old designs_583
+  - first:
+      213: -7056141319275101049
+    second: Loved old designs_584
+  - first:
+      213: -4344969370855816683
+    second: Loved old designs_585
+  - first:
+      213: 6965787457553039274
+    second: Loved old designs_586
+  - first:
+      213: 4095645492846777511
+    second: Loved old designs_587
+  - first:
+      213: 2172085287892051538
+    second: Loved old designs_588
+  - first:
+      213: 4469523597765330695
+    second: Loved old designs_589
+  - first:
+      213: -1156705830050256078
+    second: Loved old designs_590
+  - first:
+      213: -4296001900605971318
+    second: Loved old designs_591
+  - first:
+      213: -6114935375113379925
+    second: Loved old designs_592
+  - first:
+      213: 6856904462519780144
+    second: Loved old designs_593
+  - first:
+      213: 4952878488542652789
+    second: Loved old designs_594
+  - first:
+      213: 2364273242590812859
+    second: Loved old designs_595
+  - first:
+      213: 8248140988886862152
+    second: Loved old designs_596
+  - first:
+      213: -2054881106616586245
+    second: Loved old designs_597
+  - first:
+      213: 1140311334652179346
+    second: Loved old designs_598
+  - first:
+      213: -131458832167665999
+    second: Loved old designs_599
+  - first:
+      213: -3658176762862124701
+    second: Loved old designs_600
+  - first:
+      213: -1797143663159580557
+    second: Loved old designs_601
+  - first:
+      213: -5589019243372313536
+    second: Loved old designs_602
+  - first:
+      213: -2522630341291712949
+    second: Loved old designs_603
+  - first:
+      213: -7736694919171077497
+    second: Loved old designs_604
+  - first:
+      213: -4116806284214542103
+    second: Loved old designs_605
+  - first:
+      213: -8478234102654571540
+    second: Loved old designs_606
+  - first:
+      213: 6835078255992297617
+    second: Loved old designs_607
+  - first:
+      213: 4783313740630635564
+    second: Loved old designs_608
+  - first:
+      213: -1882602558499546019
+    second: Loved old designs_609
+  - first:
+      213: -3554711216053074277
+    second: Loved old designs_610
+  - first:
+      213: 610982879551104065
+    second: Loved old designs_611
+  - first:
+      213: -6094473429680561480
+    second: Loved old designs_612
+  - first:
+      213: -288973746472559033
+    second: Loved old designs_613
+  - first:
+      213: 9059243491188793151
+    second: Loved old designs_614
+  - first:
+      213: -2619997355463575638
+    second: Loved old designs_615
+  - first:
+      213: 1690179354944655502
+    second: Loved old designs_616
+  - first:
+      213: 532707945674566363
+    second: Loved old designs_617
+  - first:
+      213: -1774136782079453149
+    second: Loved old designs_618
+  - first:
+      213: 1000408767778479402
+    second: Loved old designs_619
+  - first:
+      213: -3108652724324176550
+    second: Loved old designs_620
+  - first:
+      213: -6023418009995844934
+    second: Loved old designs_621
+  - first:
+      213: -6524734393104167054
+    second: Loved old designs_622
+  - first:
+      213: -5124135302854433473
+    second: Loved old designs_623
+  - first:
+      213: -6605477624118113438
+    second: Loved old designs_624
+  - first:
+      213: -5409039490494532879
+    second: Loved old designs_625
+  - first:
+      213: -5790626498360228074
+    second: Loved old designs_626
+  - first:
+      213: 4240924058339077362
+    second: Loved old designs_627
+  - first:
+      213: -2228678044715549255
+    second: Loved old designs_628
+  - first:
+      213: 4820203390087308951
+    second: Loved old designs_629
+  - first:
+      213: -5718621096529666693
+    second: Loved old designs_630
+  - first:
+      213: 979882903423691118
+    second: Loved old designs_631
+  - first:
+      213: -5253312033279706546
+    second: Loved old designs_632
+  - first:
+      213: -6974361775272082478
+    second: Loved old designs_633
+  - first:
+      213: -4181140179505172749
+    second: Loved old designs_634
+  - first:
+      213: 5038270284087291706
+    second: Loved old designs_635
+  - first:
+      213: 8584918418180060900
+    second: Loved old designs_636
+  - first:
+      213: 2761199757055471212
+    second: Loved old designs_637
+  - first:
+      213: 4011871104834050435
+    second: Loved old designs_638
+  - first:
+      213: 5402417304307656825
+    second: Loved old designs_639
+  - first:
+      213: -5320505519943933190
+    second: Loved old designs_640
+  - first:
+      213: -4715796950279758820
+    second: Loved old designs_641
+  - first:
+      213: 4778637551400355846
+    second: Loved old designs_642
+  - first:
+      213: 8564854346228598665
+    second: Loved old designs_643
+  - first:
+      213: -2808779879817313696
+    second: Loved old designs_644
+  - first:
+      213: -2695569087205593476
+    second: Loved old designs_645
+  - first:
+      213: -3254708215708258299
+    second: Loved old designs_646
+  - first:
+      213: 6803736948093697155
+    second: Loved old designs_647
+  - first:
+      213: 6479235672168597436
+    second: Loved old designs_648
+  - first:
+      213: -5153868750666558959
+    second: Loved old designs_649
+  - first:
+      213: 2668569225796952994
+    second: Loved old designs_650
+  - first:
+      213: 8951225502546186356
+    second: Loved old designs_651
+  - first:
+      213: 2712872613820302434
+    second: Loved old designs_652
+  - first:
+      213: 8053645445732195425
+    second: Loved old designs_653
+  - first:
+      213: 1838036562533140204
+    second: Loved old designs_654
+  - first:
+      213: 2005915898605795132
+    second: Loved old designs_655
+  - first:
+      213: 6859420891828982685
+    second: Loved old designs_656
+  - first:
+      213: -5258936504694127790
+    second: Loved old designs_657
+  - first:
+      213: -4605025601734722768
+    second: Loved old designs_658
+  - first:
+      213: 2372205156197241796
+    second: Loved old designs_659
+  - first:
+      213: 1795704061492753695
+    second: Loved old designs_660
+  - first:
+      213: -5589546326181815983
+    second: Loved old designs_661
+  - first:
+      213: -2357143984443899248
+    second: Loved old designs_662
+  - first:
+      213: 8401277025230333815
+    second: Loved old designs_663
+  - first:
+      213: -7837328218649322484
+    second: Loved old designs_664
+  - first:
+      213: -5131301553420799448
+    second: Loved old designs_665
+  - first:
+      213: 6305292328524626112
+    second: Loved old designs_666
+  - first:
+      213: -8976286385618029281
+    second: Loved old designs_667
+  - first:
+      213: 798199360116211901
+    second: Loved old designs_668
+  - first:
+      213: 3862314549892392143
+    second: Loved old designs_669
+  - first:
+      213: -3407043600022490503
+    second: Loved old designs_670
+  - first:
+      213: 701778534573896383
+    second: Loved old designs_671
+  - first:
+      213: -603676623876915772
+    second: Loved old designs_672
+  - first:
+      213: -8915197242359184714
+    second: Loved old designs_673
+  - first:
+      213: -3101729675221821757
+    second: Loved old designs_674
+  - first:
+      213: 3900613587349906613
+    second: Loved old designs_675
+  - first:
+      213: 7275994881812157026
+    second: Loved old designs_676
+  - first:
+      213: -2091669981327173637
+    second: Loved old designs_677
+  - first:
+      213: 4485106113632851194
+    second: Loved old designs_678
+  - first:
+      213: 6216082833213388089
+    second: Loved old designs_679
+  - first:
+      213: 4979059958472161178
+    second: Loved old designs_680
+  - first:
+      213: -5191588536058517086
+    second: Loved old designs_681
+  - first:
+      213: -3261825247352468768
+    second: Loved old designs_682
+  - first:
+      213: -6693481637860300397
+    second: Loved old designs_683
+  - first:
+      213: 8598766479757764822
+    second: Loved old designs_684
+  - first:
+      213: -8170455481347316942
+    second: Loved old designs_685
+  - first:
+      213: 5234661390563161969
+    second: Loved old designs_686
+  - first:
+      213: -6972835920078996003
+    second: Loved old designs_687
+  - first:
+      213: 7926470886353546226
+    second: Loved old designs_688
+  - first:
+      213: -932765247062235286
+    second: Loved old designs_689
+  - first:
+      213: -7326373948049436044
+    second: Loved old designs_690
+  - first:
+      213: 5161551532908301348
+    second: Loved old designs_691
+  - first:
+      213: 9156896914646651814
+    second: Loved old designs_692
+  - first:
+      213: -5599761460584806937
+    second: Loved old designs_693
+  - first:
+      213: -8075464422909874301
+    second: Loved old designs_694
+  - first:
+      213: 2919737273832317403
+    second: Loved old designs_695
+  - first:
+      213: -2172496231574404141
+    second: Loved old designs_696
+  - first:
+      213: 5585028303476509620
+    second: Loved old designs_697
+  - first:
+      213: -8440576516989556296
+    second: Loved old designs_698
+  - first:
+      213: -5675105698423491903
+    second: Loved old designs_699
+  - first:
+      213: -2218438109275780816
+    second: Loved old designs_700
+  - first:
+      213: -8368627281823285054
+    second: Loved old designs_701
+  - first:
+      213: 5051952580017506680
+    second: Loved old designs_702
+  - first:
+      213: 316825415077855581
+    second: Loved old designs_703
+  - first:
+      213: -9212635805960424666
+    second: Loved old designs_704
+  - first:
+      213: 8490125147475890805
+    second: Loved old designs_705
+  - first:
+      213: -1280302010372323776
+    second: Loved old designs_706
+  - first:
+      213: 3592681698915421139
+    second: Loved old designs_707
+  - first:
+      213: 5173173443288229365
+    second: Loved old designs_708
+  - first:
+      213: 2688604350700913035
+    second: Loved old designs_709
+  - first:
+      213: -8812142841191073321
+    second: Loved old designs_710
+  - first:
+      213: 6322796701897217409
+    second: Loved old designs_711
+  - first:
+      213: -8619341220609220987
+    second: Loved old designs_712
+  - first:
+      213: -2807344681984573542
+    second: Loved old designs_713
+  - first:
+      213: 3575453144377810497
+    second: Loved old designs_714
+  - first:
+      213: -5711066469172042241
+    second: Loved old designs_715
+  - first:
+      213: 2275023603259603260
+    second: Loved old designs_716
+  - first:
+      213: -5843451154412998247
+    second: Loved old designs_717
+  - first:
+      213: -3492048832089022666
+    second: Loved old designs_718
+  - first:
+      213: 2815949671597580717
+    second: Loved old designs_719
+  - first:
+      213: 2406034133692964727
+    second: Loved old designs_720
+  - first:
+      213: 1826457978598266642
+    second: Loved old designs_721
+  - first:
+      213: 5680083586931444657
+    second: Loved old designs_722
+  - first:
+      213: -5978012747851746330
+    second: Loved old designs_723
+  - first:
+      213: 8101001502407507496
+    second: Loved old designs_724
+  - first:
+      213: -7263612846436863350
+    second: Loved old designs_725
+  - first:
+      213: -9078567650616276441
+    second: Loved old designs_726
+  - first:
+      213: -5913668466665040396
+    second: Loved old designs_727
+  - first:
+      213: 8326052065539306040
+    second: Loved old designs_728
+  - first:
+      213: 5018675638523031194
+    second: Loved old designs_729
+  - first:
+      213: 7556912210388772183
+    second: Loved old designs_730
+  - first:
+      213: 8412148410103740574
+    second: Loved old designs_731
+  - first:
+      213: 6407676315905296661
+    second: Loved old designs_732
+  - first:
+      213: 1815430266435492298
+    second: Loved old designs_733
+  - first:
+      213: 2703527427049025476
+    second: Loved old designs_734
+  - first:
+      213: 1686684427198886915
+    second: Loved old designs_735
+  - first:
+      213: -3069255141514243181
+    second: Loved old designs_736
+  - first:
+      213: 3647483971845966619
+    second: Loved old designs_737
+  - first:
+      213: 5945126743155308184
+    second: Loved old designs_738
+  - first:
+      213: -3730811311454187191
+    second: Loved old designs_739
+  - first:
+      213: -3750506497030631365
+    second: Loved old designs_740
+  - first:
+      213: 1232684244823122573
+    second: Loved old designs_741
+  - first:
+      213: 3756163641603375622
+    second: Loved old designs_742
+  - first:
+      213: -8415232741726977349
+    second: Loved old designs_743
+  - first:
+      213: 5348716120976750840
+    second: Loved old designs_744
+  - first:
+      213: 8086880263366006883
+    second: Loved old designs_745
+  - first:
+      213: -4588195866024498152
+    second: Loved old designs_746
+  - first:
+      213: 718795856754417014
+    second: Loved old designs_747
+  - first:
+      213: 7292927199539006808
+    second: Loved old designs_748
+  - first:
+      213: -7804159489869130436
+    second: Loved old designs_749
+  - first:
+      213: 4087416801024405946
+    second: Loved old designs_750
+  - first:
+      213: 4610144149619640880
+    second: Loved old designs_751
+  - first:
+      213: -4335550077127926729
+    second: Loved old designs_752
+  - first:
+      213: -6367741607394831665
+    second: Loved old designs_753
+  - first:
+      213: 5462631992171462445
+    second: Loved old designs_754
+  - first:
+      213: 6474130762949348604
+    second: Loved old designs_755
+  - first:
+      213: -8347769777556036811
+    second: Loved old designs_756
+  - first:
+      213: 5851367485272134074
+    second: Loved old designs_757
+  - first:
+      213: 5627419847604990008
+    second: Loved old designs_758
+  - first:
+      213: 5797461118982839815
+    second: Loved old designs_759
+  - first:
+      213: 4423520238317111596
+    second: Loved old designs_760
+  - first:
+      213: -8309376373206621076
+    second: Loved old designs_761
+  - first:
+      213: 3835421115291733233
+    second: Loved old designs_762
+  - first:
+      213: -7277362013499397397
+    second: Loved old designs_763
+  - first:
+      213: -4677524308498579798
+    second: Loved old designs_764
+  - first:
+      213: 3401662093450293949
+    second: Loved old designs_765
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Loved old designs_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff9965d022c404b0800000000000000
+      internalID: -5475037800700469260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 504
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ba442d1fd540cf0800000000000000
+      internalID: -287001183048651888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 504
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a3edf462c7d9aa0800000000000000
+      internalID: -6152625011927663980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 504
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ded34d3440ba4c60800000000000000
+      internalID: 7803243111504928471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 504
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dec086cc04005d90800000000000000
+      internalID: -7111179358701564204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 504
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691ca838a15d10000800000000000000
+      internalID: 515784829485462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 504
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f804b4a6ed941a00800000000000000
+      internalID: 726379053844793589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 504
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1090d9d6042a7a0800000000000000
+      internalID: -6367456083618233937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 504
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f41a18acd804010800000000000000
+      internalID: 1171091804014071601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 504
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ede432729349dd0800000000000000
+      internalID: -2480294654515421661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 504
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91c75f7908552620800000000000000
+      internalID: 2748699945393963420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 504
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97107311d421fb860800000000000000
+      internalID: 7547771622706839929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 432
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b087de5bce73aa0800000000000000
+      internalID: -6181211697425413331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 432
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e61dcb9c52eff620800000000000000
+      internalID: 2810213579881256677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 433
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ead645aa54e73100800000000000000
+      internalID: 87789795728087783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 432
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d00bcf7272716260800000000000000
+      internalID: 7089073124553720024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 432
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f889be26b91a2860800000000000000
+      internalID: 7505839999225006322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 433
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dfff910df6df8d0800000000000000
+      internalID: -2810967652829233814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_18
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 432
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a919b6f2f153ec0800000000000000
+      internalID: -3587927239602103723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_19
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 432
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de193d1b2987dd280800000000000000
+      internalID: -9016918307481873939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_20
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 432
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726c40cedeb41c710800000000000000
+      internalID: 1711732818616567335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_21
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 432
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3327446ba69b6c90800000000000000
+      internalID: -7175475918418795716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_22
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 432
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad15bf4fe0f7aed10800000000000000
+      internalID: 2155675073866584538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_23
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 432
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c4ca90e524d9ca0800000000000000
+      internalID: -6008573356185727939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 360
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e359acdd2c42420800000000000000
+      internalID: 2604420742369328791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 360
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffdea2b1ed799550800000000000000
+      internalID: 6168099572979523571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 361
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b0af4d6632144b0800000000000000
+      internalID: -5458042348829537512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 360
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2729bc9e19906e80800000000000000
+      internalID: -8187375765802113236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 360
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d445402c393af5840800000000000000
+      internalID: 5215066748528907341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 361
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc9fe883363e6a90800000000000000
+      internalID: -7318852749461840653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 360
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108869f09ef8b3560800000000000000
+      internalID: 7294582252608325633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 360
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd8e3e222ec88a40800000000000000
+      internalID: 5370769201839377856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 360
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8ccf290fd6adc40800000000000000
+      internalID: 5537859571831064765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_33
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 360
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2656ee15927587040800000000000000
+      internalID: 4645558850612520290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_34
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 360
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc85c662fcbd92d50800000000000000
+      internalID: 6713138402321782988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 360
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286c74462e0137530800000000000000
+      internalID: 3851440670862984834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2cbf1428dd15140800000000000000
+      internalID: 4706786637101384359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 289
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa7df0602ba2f7c0800000000000000
+      internalID: -4038977760243385695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_38
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 288
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af797b452bd5db40800000000000000
+      internalID: 5464514676110491557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_39
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 290
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a3f9df7a4b4e300800000000000000
+      internalID: 280547710411422284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_40
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 289
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef77cce7f92edb00800000000000000
+      internalID: 855167124053131247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 288
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40276a115a428ac0800000000000000
+      internalID: -3854436618879950769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_42
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 288
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53978c97e1e4fe0e0800000000000000
+      internalID: -2238484596980680395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec7f4fece5ad3c50800000000000000
+      internalID: 6646651062114548967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc96008057710c10800000000000000
+      internalID: 2018025295667698898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_45
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 288
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb08607237db4ec0800000000000000
+      internalID: -3581532467008893970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372e16f14bdd75530800000000000000
+      internalID: 3843784572674368115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_47
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e1699b39e570000800000000000000
+      internalID: 2074313403801219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e91657ae32c61f40800000000000000
+      internalID: 5698955952835140068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 216
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e418d499694439a0800000000000000
+      internalID: -6254293264693193503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_50
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 216
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97532a3bb85e295a0800000000000000
+      internalID: -6515893322674719367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_51
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 216
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce16af9cf4061d40800000000000000
+      internalID: 5554632673464819405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 216
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c924f23168877b000800000000000000
+      internalID: 51642437980865180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_53
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 216
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e869f778cf248af0800000000000000
+      internalID: -395138329248962327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 144
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ca81c4ccf0c5fa0800000000000000
+      internalID: -5810752049090352084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_55
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 144
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403d5e32d43577ed0800000000000000
+      internalID: -2416371084281130236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_56
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 144
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedd6d9683c4174f0800000000000000
+      internalID: -832800650909262353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_57
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 144
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e208610b70c396ab0800000000000000
+      internalID: -5014410706383634386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_58
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 144
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16843148909c6f40800000000000000
+      internalID: 5723108210084447772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_59
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 144
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d124039c4acfcb10800000000000000
+      internalID: 2004042789436006872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 72
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ede02c835c65eab0800000000000000
+      internalID: -4979454706899161628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_61
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 72
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8642a58a229883cd0800000000000000
+      internalID: -2578160004723235736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_62
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 72
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7194e22a99af510800000000000000
+      internalID: 1583747140814444462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_63
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 72
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79eb82206ffdc080800000000000000
+      internalID: -9165388878267553410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_64
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 72
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ef6bfb812665270800000000000000
+      internalID: 8238880426756079251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_65
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 72
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546266f432dad5b80800000000000000
+      internalID: -8404370962435922363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e9a4bc9946a5210800000000000000
+      internalID: 1322480052290100818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_67
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876dbc449137e1bd0800000000000000
+      internalID: -2657560177736427912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_68
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5061d59bef2809a0800000000000000
+      internalID: -6266706192608698274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_69
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42ef6bf826491bc0800000000000000
+      internalID: -3811938467761364401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_70
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d88b558cd24e3970800000000000000
+      internalID: 8736493842042947797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loved old designs_71
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095f228ca19a1bff0800000000000000
+      internalID: -22050590668163696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
