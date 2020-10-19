@@ -37,8 +37,13 @@ public class PhotonManager : Photon.MonoBehaviour
 
     public virtual void OnJoinedRoom()
     {
-        PhotonNetwork.Instantiate(playerPrefab.name, 
-            new Vector3(Random.Range(-19, 14), (Random.Range(1, -14))), Quaternion.identity, 0);
+        var player = PhotonNetwork.Instantiate(playerPrefab.name, 
+            new Vector3(Random.Range(-19, 14), (Random.Range(1, -14))), Quaternion.identity, 0) as GameObject;
+
+        if (player)
+        {
+            player.GetComponent<PlayerController>().VirtualCameraV1.Follow = player.transform; 
+        }
     }
 
 }
