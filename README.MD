@@ -9,7 +9,13 @@
 	</a>
     <a href="https://img.shields.io/github/repo-size/rsaz/mankind">
         <img src="https://img.shields.io/github/repo-size/rsaz/mankind" align="center"/>
+    </a>	
+    <a href="https://img.shields.io/github/contributors/rsaz/mankind.svg">
+        <img src="https://img.shields.io/github/contributors/rsaz/mankind.svg" align="center"/>
     </a>
+    <a href="https://img.shields.io/github/stars/rsaz/mankind?style=social">
+        <img src="https://img.shields.io/github/stars/rsaz/mankind?style=social" align="center"/>
+    </a>	
 	<br>
 </h3>
 
