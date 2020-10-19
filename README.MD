@@ -7,7 +7,7 @@
 	<a href="https://img.shields.io/badge/type-Open Project-green">
 		<img src="https://img.shields.io/badge/type-Open Project-green" align="center">
 	</a>
-    <a href="https://img.shields.io/github/repo-size/andersonmarquess/Cshap-with-dotnet-core">
+    <a href="https://img.shields.io/github/repo-size/rsaz/mankind">
         <img src="https://img.shields.io/github/repo-size/rsaz/mankind" align="center"/>
     </a>
 	<br>
