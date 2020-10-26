@@ -88,7 +88,9 @@ If you do any of the above, we reserve the right to ban you from contributing to
 
 ## Contributing Guide [TEMP]
 
+
 0. Create a github account.
+
 	0.1 - If you are new to git, access this little [guild](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet). 
 1. To fork the project, just click the upper right button "Fork".
 
