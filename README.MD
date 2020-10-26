@@ -114,6 +114,8 @@ If you do any of the above, we reserve the right to ban you from contributing to
 	
 7. If the owner of the repo is okay with your contribution then they will merge your changes with the original repository.
 
+Alternative guide: [GitHub fork docs](https://guides.github.com/activities/forking/)
+
 ## License
 
 TODO
