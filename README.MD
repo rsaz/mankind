@@ -86,9 +86,31 @@ If you do any of the above, we reserve the right to ban you from contributing to
 
 
 
-## Contributing Guide
+## Contributing Guide [TEMP]
 
-TODO
+0. Create a github account.
+	0.1 - If you are new to git, access this little [guild](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet). 
+1. To fork the project, just click the upper right button "Fork".
+
+	 <p><img src="https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png"  width="200" align="center"/></p>
+	1.1 - To clone the project:	
+	
+		1.1.1 - git clone https://github.com/**your_github_user_name**/mankind.git
+	 <p><img src="https://docs.github.com/assets/images/help/repository/code-button.png"  width="200" align="center"/></p>
+		
+	1.2 - To Just download the project, just click the upper button called "Code" > "Download Zip".
+2. Go to downloaded folder and open the terminal.
+3. Go to **development** branch.
+	
+		3.1 - With the terminal, type: git checkout development.
+4. Add your contribution.
+5. Commit your change.
+6. Send a Pull Request (PR) to the main repository.
+
+	6.1 - to create a PR, in the main repository, just go to "Pull Request" tab, then click the "Create Pull Request", with the details of your changes.
+	 <p><img src="https://docs.github.com/assets/images/help/pull_requests/pullrequest-send.png"  width="200" align="center"/></p>
+	
+7. If the owner of the repo is okay with your contribution then they will merge your changes with the original repository.
 
 ## License
 
