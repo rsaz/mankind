@@ -8,7 +8,7 @@ public class PhotonManager : Photon.MonoBehaviour
     public byte Version = 1;
     private bool ConnectInUpdate = true;
 
-    public Transform spawnPoint;
+    public TerrainManager terrainManager;
     public GameObject playerPrefab;
 
     public virtual void Start()
@@ -38,7 +38,7 @@ public class PhotonManager : Photon.MonoBehaviour
     public virtual void OnJoinedRoom()
     {
         var player = PhotonNetwork.Instantiate(playerPrefab.name, 
-            new Vector3(Random.Range(-19, 14), (Random.Range(1, -14))), Quaternion.identity, 0) as GameObject;
+            terrainManager.RandomCellPosition(PhotonNetwork.player.ID), Quaternion.identity, 0) as GameObject;
 
         if (player)
         {

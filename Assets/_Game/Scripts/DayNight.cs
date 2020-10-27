@@ -4,6 +4,7 @@ using UnityEngine.Experimental.Rendering.Universal;
 
 public class DayNight : MonoBehaviour
 {
+    #region Properties
     [SerializeField] private Light2D sun;
     
     [SerializeField] private float dayDurationInMinutes= 1;
@@ -19,19 +20,20 @@ public class DayNight : MonoBehaviour
 
     private float dayIntensityFactor;
     private float nightIntensityFactor;
+    #endregion
 
-
-
-
+    #region Unity Events
     // Start is called before the first frame update
     void Start()
     {
         dayIntensityFactor = (maxDayLightIntensity - maxNightLightIntensity) / (dayDurationInMinutes * 6000);
         nightIntensityFactor = (maxDayLightIntensity - maxNightLightIntensity) / (nightDurationInMinutes * 6000);
         StartCoroutine(Sunset());
-        
     }
 
+    #endregion
+
+    #region Methods
     IEnumerator Sunset()
     {
         // to define a day and night cycle time
@@ -56,7 +58,6 @@ public class DayNight : MonoBehaviour
             yield return new WaitForSecondsRealtime(0.01f);
         }
         StartCoroutine(Sunset());
-        
-
     }
+    #endregion
 }
