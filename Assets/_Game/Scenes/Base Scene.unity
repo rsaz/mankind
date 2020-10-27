@@ -155,7 +155,7 @@ MonoBehaviour:
   m_LightType: 4
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.5
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.6862745, b: 0.39215687, a: 1}
   m_Intensity: 1
   m_LightVolumeOpacity: 0
   m_ApplyToSortingLayers: 00000000
@@ -507,7 +507,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sun: {fileID: 141349456}
-  intensityFactor: 0.01
+  dayDurationInMinutes: 1
+  nightDurationInMinutes: 1
+  totalDarknnesStayTime: 0.1
+  fullBrightnessStayTime: 0.1
+  maxDayLightIntensity: 1
+  maxNightLightIntensity: 0.5
+  afternoonColor: {r: 1, g: 0.68594956, b: 0.3915094, a: 0}
+  nightColor: {r: 0.25657982, g: 0.18155926, b: 0.754717, a: 0}
 --- !u!1 &811531987
 GameObject:
   m_ObjectHideFlags: 0
