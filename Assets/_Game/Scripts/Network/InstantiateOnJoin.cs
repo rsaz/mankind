@@ -14,6 +14,8 @@ public class InstantiateOnJoin : MonoBehaviour
         {
             foreach (GameObject o in this.PrefabsToInstantiate)
             {
+                Debug.Log("Instantiating: " + o.name);
+
                 Vector3 spawnPos = Vector3.up;
                 if (this.SpawnPosition != null)
                 {
