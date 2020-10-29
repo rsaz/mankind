@@ -2,7 +2,7 @@
 	Mankind
 </h2>
 <h3 align="center">
-	O Melhor entre os mundos
+	The best between worlds
 	<br>
 	<a href="https://img.shields.io/badge/type-Open Project-green">
 		<img src="https://img.shields.io/badge/type-Open Project-green" align="center">
