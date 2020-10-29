@@ -102,24 +102,13 @@ If you do any of the above, we reserve the right to ban you from contributing to
 
 ___
 
-## Contributing Guide [TEMP]
-
+## Contributing Guide
+```
 1. Fork the original repository to your own repository
 2. Clone it to your local
 3. Contribute to it
 4. Push it to your remote repo
 5. Send a PR to the main repo
 6. Your contribution will be evaluated then we will merge your changes with the original repository if it pass in the evaluation process.
-
+```
 **Please don't create other branches**
-
-## License
-
-TODO
-
-## FAQ
-	
-	This readme is based on the unity open project?
-		Yes! 
-
-
