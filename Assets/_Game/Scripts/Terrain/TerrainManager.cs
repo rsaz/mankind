@@ -1,14 +1,21 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.Tilemaps;
 using UnityEngine;
 
 public class TerrainManager : MonoBehaviour
 {
     #region Variables
     [SerializeField] private bool debug = true;
-    [SerializeField] private float mapWidth = 80;
-    [SerializeField] private float mapHeight = 80;
-    [SerializeField, Min(1)] private float cellSize = 10;
+
+    [Tooltip("The Tilemap to draw onto")]
+	public Tilemap tilemap;
+	[Tooltip("The Tile to draw (use a RuleTile for best results)")]
+	public TileBase tile;
+
+    [SerializeField] private int mapWidth = 80;
+    [SerializeField] private int mapHeight = 80;
+    [SerializeField, Min(1)] private int cellSize = 10;
 
     private List<TerrainCell> cells = new List<TerrainCell>(); 
     private int numberOfCellsX;
@@ -18,7 +25,7 @@ public class TerrainManager : MonoBehaviour
     // Start is called before the first frame update
     void Awake()
     {
-        BuildTerrain();
+        BuildTerrainBase();
     }
 
     // Update is called once per frame
@@ -28,7 +35,7 @@ public class TerrainManager : MonoBehaviour
     }
 
     #region Methods
-    void BuildTerrain()
+    void BuildTerrainBase()
     {
         numberOfCellsX = Mathf.FloorToInt(mapWidth/cellSize);
         numberOfCellsY = Mathf.FloorToInt(mapHeight/cellSize);
@@ -41,7 +48,7 @@ public class TerrainManager : MonoBehaviour
                 Vector2 cellPosition = new Vector2(transform.position.x - (mapWidth/2) + (cellSize/2) + (cellSize*i), 
                     transform.position.y - (mapHeight/2) + (cellSize/2) + (cellSize*j));
 
-                TerrainCell newCell = new TerrainCell(cellID, cellPosition);
+                TerrainCell newCell = new TerrainCell(cellID, cellPosition, cellSize);
                 cells.Add(newCell);
             }
         }
@@ -59,8 +66,9 @@ public class TerrainManager : MonoBehaviour
 
         TerrainCell cell = cells[randomCell];
         cell.OwnerId = newOwnerId;
-        return cell.Position;
-    }
+        cell.RenderMap(tilemap, tile);
+        return cell.Center;
+    }    
     #endregion
 
     #region Unity Editor
