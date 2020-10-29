@@ -27,9 +27,6 @@
 	<img src="https://unity3d.com/profiles/unity3d/themes/unity/images/ui/ui/unity-logo-black.svg" width="200" align="center">
 </p>
 
-<br>
-<br>
-
 ## Project Purpose
 We are trying to build a society in a 2D top-down world where people will be able to craft, farm, study, buy and sell and define the fate of his character/avatar.
 This is a game that is being built by the community. Well, can be a game in the future, but for now has been a play ground for practicing unity engine. Of course, we try to coordinate some of the aspects we can have in the game in order to establish some bare-bones of the idea, otherwise would be too loose. It is the first attempt to build a game where everyone can contribute, collaborate with art, ui, music, programming. Whatever you good at, you can help to shape this world.
@@ -110,4 +107,5 @@ ___
 4. Push it to your remote repo
 5. Send a PR to the main repo
 6. Your contribution will be evaluated then we will merge your changes with the original repository.
+```
 **Please don't create other branches**
