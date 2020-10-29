@@ -109,6 +109,5 @@ ___
 3. Contribute to it
 4. Push it to your remote repo
 5. Send a PR to the main repo
-6. Your contribution will be evaluated then we will merge your changes with the original repository if it pass in the evaluation process.
-```
+6. Your contribution will be evaluated then we will merge your changes with the original repository.
 **Please don't create other branches**
