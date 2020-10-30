@@ -8,11 +8,15 @@ public class TerrainManager : MonoBehaviour
     #region Variables
     [SerializeField] private bool debug = true;
 
+    [Header("Tiles Config")]
     [Tooltip("The Tilemap to draw onto")]
 	public Tilemap tilemap;
-	[Tooltip("The Tile to draw (use a RuleTile for best results)")]
-	public TileBase tile;
+	[Tooltip("The Tile to draw when buying")]
+	public TileBase tilePavement;
+    [Tooltip("The Tile to draw when selling")]
+	public TileBase tileDirt;
 
+    [Header("Map Properties")]
     [SerializeField] private int mapWidth = 80;
     [SerializeField] private int mapHeight = 80;
     [SerializeField, Min(1)] private int cellSize = 10;
@@ -48,7 +52,7 @@ public class TerrainManager : MonoBehaviour
                 Vector2 cellPosition = new Vector2(transform.position.x - (mapWidth/2) + (cellSize/2) + (cellSize*i), 
                     transform.position.y - (mapHeight/2) + (cellSize/2) + (cellSize*j));
 
-                TerrainCell newCell = new TerrainCell(cellID, cellPosition, cellSize);
+                TerrainCell newCell = new TerrainCell(cellID, cellPosition, cellSize, tilemap, tilePavement, tileDirt);
                 cells.Add(newCell);
             }
         }
@@ -66,7 +70,7 @@ public class TerrainManager : MonoBehaviour
 
         TerrainCell cell = cells[randomCell];
         cell.OwnerId = newOwnerId;
-        cell.RenderMap(tilemap, tile);
+        cell.RenderMap(tilemap, tilePavement);
         return cell.Center;
     }    
     #endregion
