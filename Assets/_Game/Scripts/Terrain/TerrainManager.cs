@@ -43,17 +43,19 @@ public class TerrainManager : MonoBehaviour
     {
         numberOfCellsX = Mathf.FloorToInt(mapWidth/cellSize);
         numberOfCellsY = Mathf.FloorToInt(mapHeight/cellSize);
+        int cellID = 0;
 
         for(int i = 0; i < numberOfCellsX; i++)
         {
             for(int j = 0; j < numberOfCellsY; j++)
             {
-                int cellID = i+j;
+                print(cellID);
                 Vector2 cellPosition = new Vector2(transform.position.x - (mapWidth/2) + (cellSize/2) + (cellSize*i), 
                     transform.position.y - (mapHeight/2) + (cellSize/2) + (cellSize*j));
 
                 TerrainCell newCell = new TerrainCell(cellID, cellPosition, cellSize, tilemap, tilePavement, tileDirt);
                 cells.Add(newCell);
+                cellID++;
             }
         }
     }
