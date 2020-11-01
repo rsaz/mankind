@@ -36,7 +36,7 @@ public class PhotonManager : Photon.MonoBehaviour
     }
 
     public virtual void OnJoinedRoom()
-    {
+    {       
         var player = PhotonNetwork.Instantiate(playerPrefab.name, 
             terrainManager.RandomCellPosition(PhotonNetwork.player.ID), Quaternion.identity, 0) as GameObject;
 

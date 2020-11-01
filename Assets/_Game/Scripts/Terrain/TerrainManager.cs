@@ -9,13 +9,11 @@ public class TerrainManager : MonoBehaviour
     [SerializeField] private bool debug = true;
 
     [Header("Tiles Config")]
-    [Tooltip("The Tilemap to draw onto")]
-	public Tilemap tilemap;
-	[Tooltip("The Tile to draw when buying")]
-	public TileBase tilePavement;
-    [Tooltip("The Tile to draw when selling")]
-	public TileBase tileDirt;
-
+    [Tooltip("The Tilemap to build and manipulate terrain")]
+	public Tilemap tilemapBuilder;
+	[Tooltip("The initials tiles that every player receives at the beggining of the game")]
+	public TileBase tilesInitialTerrain;
+    
     [Header("Map Properties")]
     [SerializeField] private int mapWidth = 80;
     [SerializeField] private int mapHeight = 80;
@@ -26,17 +24,14 @@ public class TerrainManager : MonoBehaviour
     private int numberOfCellsY;
     #endregion
 
+    #region Unity Events
     // Start is called before the first frame update
     void Awake()
     {
         BuildTerrainBase();
     }
+    #endregion
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 
     #region Methods
     void BuildTerrainBase()
@@ -51,7 +46,7 @@ public class TerrainManager : MonoBehaviour
                 Vector2 cellPosition = new Vector2(transform.position.x - (mapWidth/2) + (cellSize/2) + (cellSize*i), 
                     transform.position.y - (mapHeight/2) + (cellSize/2) + (cellSize*j));
 
-                TerrainCell newCell = new TerrainCell(cells.Count, cellPosition, cellSize, tilemap, tilePavement, tileDirt);
+                TerrainCell newCell = new TerrainCell(cells.Count, cellPosition, cellSize, tilemapBuilder, tilesInitialTerrain);
                 cells.Add(newCell);
             }
         }
@@ -69,7 +64,7 @@ public class TerrainManager : MonoBehaviour
 
         TerrainCell cell = cells[randomCell];
         cell.OwnerId = newOwnerId;
-        cell.RenderMap(tilemap, tilePavement);
+        cell.RenderMap(tilemapBuilder, tilesInitialTerrain);
         return cell.Center;
     }    
 

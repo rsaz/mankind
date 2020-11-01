@@ -25,14 +25,13 @@ public class TerrainCell
 	private TileBase tileBuy;
 	private TileBase tileSell;
 
-    public TerrainCell(int id, Vector3 center, int cellSize, Tilemap tilemap, TileBase tileBuy, TileBase tileSell, bool available = true, int ownerId = -1)
+    public TerrainCell(int id, Vector3 center, int cellSize, Tilemap tilemap, TileBase tileBuy, bool available = true, int ownerId = -1)
     {
         this.id = id;
         this.center = center;
         this.map = GenerateArray(cellSize, cellSize);
         this.tilemap = tilemap;
         this.tileBuy = tileBuy;
-        this.tileSell = tileSell;
         this.available = available;
         this.ownerId = ownerId;
     }
