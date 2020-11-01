@@ -25,21 +25,13 @@ public class TerrainCell
 	private TileBase tileBuy;
 	private TileBase tileSell;
 
-<<<<<<< HEAD
     public TerrainCell(int id, Vector3 center, int cellSize, Tilemap tilemap, TileBase tileBuy, bool available = true, int ownerId = -1)
-=======
-    public TerrainCell(int id, Vector3 center, int cellSize, Tilemap tilemap, TileBase tileBuy, TileBase tileSell, bool available = true, int ownerId = -1)
->>>>>>> 75c0bea37876e07c9c0fc7e4139f2a3d5868b86c
     {
         this.id = id;
         this.center = center;
         this.map = GenerateArray(cellSize, cellSize);
         this.tilemap = tilemap;
         this.tileBuy = tileBuy;
-<<<<<<< HEAD
-=======
-        this.tileSell = tileSell;
->>>>>>> 75c0bea37876e07c9c0fc7e4139f2a3d5868b86c
         this.available = available;
         this.ownerId = ownerId;
     }
@@ -77,6 +69,21 @@ public class TerrainCell
                 map[x, y] = 1;
                 tilemap.SetTile(new Vector3Int(Mathf.FloorToInt(center.x) - ((map.GetUpperBound(0)+1)/2) + x, 
                                         Mathf.FloorToInt(center.y) - ((map.GetUpperBound(0)+1)/2) + y, 0), tile); 
+            }
+        }
+    }
+
+    public void RenderMap(Tilemap tilemap, TileBase[] tile)
+    {
+        //Loop through the width of the map
+        for (int x = 0; x <= map.GetUpperBound(0) ; x++) 
+        {
+            //Loop through the height of the map
+            for (int y = 0; y <= map.GetUpperBound(1); y++) 
+            {
+                map[x, y] = 1;
+                tilemap.SetTile(new Vector3Int(Mathf.FloorToInt(center.x) - ((map.GetUpperBound(0)+1)/2) + x, 
+                                        Mathf.FloorToInt(center.y) - ((map.GetUpperBound(0)+1)/2) + y, 0), tile[(y+x)%2]); 
             }
         }
     }
