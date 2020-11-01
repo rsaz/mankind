@@ -25,13 +25,21 @@ public class TerrainCell
 	private TileBase tileBuy;
 	private TileBase tileSell;
 
+<<<<<<< HEAD
     public TerrainCell(int id, Vector3 center, int cellSize, Tilemap tilemap, TileBase tileBuy, bool available = true, int ownerId = -1)
+=======
+    public TerrainCell(int id, Vector3 center, int cellSize, Tilemap tilemap, TileBase tileBuy, TileBase tileSell, bool available = true, int ownerId = -1)
+>>>>>>> 75c0bea37876e07c9c0fc7e4139f2a3d5868b86c
     {
         this.id = id;
         this.center = center;
         this.map = GenerateArray(cellSize, cellSize);
         this.tilemap = tilemap;
         this.tileBuy = tileBuy;
+<<<<<<< HEAD
+=======
+        this.tileSell = tileSell;
+>>>>>>> 75c0bea37876e07c9c0fc7e4139f2a3d5868b86c
         this.available = available;
         this.ownerId = ownerId;
     }

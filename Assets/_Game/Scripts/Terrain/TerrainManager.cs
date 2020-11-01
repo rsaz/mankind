@@ -9,11 +9,21 @@ public class TerrainManager : MonoBehaviour
     [SerializeField] private bool debug = true;
 
     [Header("Tiles Config")]
+<<<<<<< HEAD
     [Tooltip("The Tilemap to build and manipulate terrain")]
 	public Tilemap tilemapBuilder;
 	[Tooltip("The initials tiles that every player receives at the beggining of the game")]
 	public TileBase tilesInitialTerrain;
     
+=======
+    [Tooltip("The Tilemap to draw onto")]
+	public Tilemap tilemap;
+	[Tooltip("The Tile to draw when buying")]
+	public TileBase tilePavement;
+    [Tooltip("The Tile to draw when selling")]
+	public TileBase tileDirt;
+
+>>>>>>> 75c0bea37876e07c9c0fc7e4139f2a3d5868b86c
     [Header("Map Properties")]
     [SerializeField] private int mapWidth = 80;
     [SerializeField] private int mapHeight = 80;
@@ -46,7 +56,11 @@ public class TerrainManager : MonoBehaviour
                 Vector2 cellPosition = new Vector2(transform.position.x - (mapWidth/2) + (cellSize/2) + (cellSize*i), 
                     transform.position.y - (mapHeight/2) + (cellSize/2) + (cellSize*j));
 
+<<<<<<< HEAD
                 TerrainCell newCell = new TerrainCell(cells.Count, cellPosition, cellSize, tilemapBuilder, tilesInitialTerrain);
+=======
+                TerrainCell newCell = new TerrainCell(cells.Count, cellPosition, cellSize, tilemap, tilePavement, tileDirt);
+>>>>>>> 75c0bea37876e07c9c0fc7e4139f2a3d5868b86c
                 cells.Add(newCell);
             }
         }
@@ -64,7 +78,11 @@ public class TerrainManager : MonoBehaviour
 
         TerrainCell cell = cells[randomCell];
         cell.OwnerId = newOwnerId;
+<<<<<<< HEAD
         cell.RenderMap(tilemapBuilder, tilesInitialTerrain);
+=======
+        cell.RenderMap(tilemap, tilePavement);
+>>>>>>> 75c0bea37876e07c9c0fc7e4139f2a3d5868b86c
         return cell.Center;
     }    
 
