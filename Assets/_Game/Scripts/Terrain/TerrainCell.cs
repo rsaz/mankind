@@ -68,8 +68,8 @@ public class TerrainCell
             for (int y = 0; y <= map.GetUpperBound(1); y++) 
             {
                 map[x, y] = 1;
-                tilemap.SetTile(new Vector3Int(Mathf.FloorToInt(center.x) - (10/2) + x, 
-                                        Mathf.FloorToInt(center.y) - (10/2) + y, 0), tile); 
+                tilemap.SetTile(new Vector3Int(Mathf.FloorToInt(center.x) - ((map.GetUpperBound(0)+1)/2) + x, 
+                                        Mathf.FloorToInt(center.y) - ((map.GetUpperBound(0)+1)/2) + y, 0), tile); 
             }
         }
     }

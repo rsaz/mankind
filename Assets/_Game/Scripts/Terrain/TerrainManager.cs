@@ -43,19 +43,16 @@ public class TerrainManager : MonoBehaviour
     {
         numberOfCellsX = Mathf.FloorToInt(mapWidth/cellSize);
         numberOfCellsY = Mathf.FloorToInt(mapHeight/cellSize);
-        int cellID = 0;
 
         for(int i = 0; i < numberOfCellsX; i++)
         {
             for(int j = 0; j < numberOfCellsY; j++)
             {
-                print(cellID);
                 Vector2 cellPosition = new Vector2(transform.position.x - (mapWidth/2) + (cellSize/2) + (cellSize*i), 
                     transform.position.y - (mapHeight/2) + (cellSize/2) + (cellSize*j));
 
-                TerrainCell newCell = new TerrainCell(cellID, cellPosition, cellSize, tilemap, tilePavement, tileDirt);
+                TerrainCell newCell = new TerrainCell(cells.Count, cellPosition, cellSize, tilemap, tilePavement, tileDirt);
                 cells.Add(newCell);
-                cellID++;
             }
         }
     }
@@ -75,6 +72,24 @@ public class TerrainManager : MonoBehaviour
         cell.RenderMap(tilemap, tilePavement);
         return cell.Center;
     }    
+
+    public void BuyTerrainByPosition(int newOwnerId, Vector3 relativePosition)
+    {
+        bool success = cells[0].BuyTerrain(0);
+
+        #if UNITY_EDITOR
+            if(!success) Debug.LogWarning("Terrain not available");
+        #endif
+    }
+
+    public void BuyTerrainByID(int cellID, int newOwnerId)
+    {
+        bool success = cells[cellID].BuyTerrain(newOwnerId);
+
+        #if UNITY_EDITOR
+            if(!success) Debug.LogWarning("Terrain not available");
+        #endif
+    }
     #endregion
 
     #region Unity Editor
