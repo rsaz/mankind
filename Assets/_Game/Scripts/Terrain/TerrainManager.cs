@@ -1,14 +1,25 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.Tilemaps;
 using UnityEngine;
 
 public class TerrainManager : MonoBehaviour
 {
     #region Variables
     [SerializeField] private bool debug = true;
-    [SerializeField] private float mapWidth = 80;
-    [SerializeField] private float mapHeight = 80;
-    [SerializeField, Min(1)] private float cellSize = 10;
+
+    [Header("Tiles Config")]
+    [Tooltip("The Tilemap to draw onto")]
+	public Tilemap tilemap;
+	[Tooltip("The Tile to draw when buying")]
+	public TileBase tilePavement;
+    [Tooltip("The Tile to draw when selling")]
+	public TileBase tileDirt;
+
+    [Header("Map Properties")]
+    [SerializeField] private int mapWidth = 80;
+    [SerializeField] private int mapHeight = 80;
+    [SerializeField, Min(1)] private int cellSize = 10;
 
     private List<TerrainCell> cells = new List<TerrainCell>(); 
     private int numberOfCellsX;
@@ -18,7 +29,7 @@ public class TerrainManager : MonoBehaviour
     // Start is called before the first frame update
     void Awake()
     {
-        BuildTerrain();
+        BuildTerrainBase();
     }
 
     // Update is called once per frame
@@ -28,7 +39,7 @@ public class TerrainManager : MonoBehaviour
     }
 
     #region Methods
-    void BuildTerrain()
+    void BuildTerrainBase()
     {
         numberOfCellsX = Mathf.FloorToInt(mapWidth/cellSize);
         numberOfCellsY = Mathf.FloorToInt(mapHeight/cellSize);
@@ -37,11 +48,10 @@ public class TerrainManager : MonoBehaviour
         {
             for(int j = 0; j < numberOfCellsY; j++)
             {
-                int cellID = i+j;
                 Vector2 cellPosition = new Vector2(transform.position.x - (mapWidth/2) + (cellSize/2) + (cellSize*i), 
                     transform.position.y - (mapHeight/2) + (cellSize/2) + (cellSize*j));
 
-                TerrainCell newCell = new TerrainCell(cellID, cellPosition);
+                TerrainCell newCell = new TerrainCell(cells.Count, cellPosition, cellSize, tilemap, tilePavement, tileDirt);
                 cells.Add(newCell);
             }
         }
@@ -59,7 +69,26 @@ public class TerrainManager : MonoBehaviour
 
         TerrainCell cell = cells[randomCell];
         cell.OwnerId = newOwnerId;
-        return cell.Position;
+        cell.RenderMap(tilemap, tilePavement);
+        return cell.Center;
+    }    
+
+    public void BuyTerrainByPosition(int newOwnerId, Vector3 relativePosition)
+    {
+        bool success = cells[0].BuyTerrain(0);
+
+        #if UNITY_EDITOR
+            if(!success) Debug.LogWarning("Terrain not available");
+        #endif
+    }
+
+    public void BuyTerrainByID(int cellID, int newOwnerId)
+    {
+        bool success = cells[cellID].BuyTerrain(newOwnerId);
+
+        #if UNITY_EDITOR
+            if(!success) Debug.LogWarning("Terrain not available");
+        #endif
     }
     #endregion
 
