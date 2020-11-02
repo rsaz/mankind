@@ -46,3 +46,7 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+#etc
+.DS_Store
+.vscode/

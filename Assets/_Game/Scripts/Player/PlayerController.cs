@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using Cinemachine;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -14,7 +15,8 @@ public class PlayerController : MonoBehaviour
 
     #region Shared Components
     public Rigidbody2D Rigidbody2D { get => GetComponent<Rigidbody2D>(); }
-    public Animator Animator { get => GetComponent<Animator>(); }
+    public Animator Animator { get => GetComponent<Animator>(); }  
+    public CinemachineVirtualCamera VirtualCameraV1 { get => GameObject.Find("CM vcam1").GetComponent<CinemachineVirtualCamera>();  }
     #endregion
 
     #region Unity Events
