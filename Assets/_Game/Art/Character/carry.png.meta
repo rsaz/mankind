@@ -1,0 +1,577 @@
+fileFormatVersion: 2
+guid: 71fa36034ec869342b226bb3fe373c3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3128037068336569924
+    second: carry_0
+  - first:
+      213: -6674943876611404575
+    second: carry_1
+  - first:
+      213: 7797569736597768315
+    second: carry_2
+  - first:
+      213: -5104648013722330787
+    second: carry_3
+  - first:
+      213: -4677826567842810959
+    second: carry_4
+  - first:
+      213: -8751079221881120807
+    second: carry_5
+  - first:
+      213: 2841737812682434124
+    second: carry_6
+  - first:
+      213: -6269825698517289454
+    second: carry_7
+  - first:
+      213: 4940560895993882761
+    second: carry_0
+  - first:
+      213: -2186775296346528031
+    second: carry_1
+  - first:
+      213: 5128585784411191679
+    second: carry_2
+  - first:
+      213: 8648647518595527678
+    second: carry_3
+  - first:
+      213: -6832465753436368645
+    second: carry_4
+  - first:
+      213: 4517576093788318154
+    second: carry_5
+  - first:
+      213: -6430122820182831137
+    second: carry_6
+  - first:
+      213: -1418529091629201991
+    second: carry_7
+  - first:
+      213: -122636674060732625
+    second: carry_8
+  - first:
+      213: 3200963126544638904
+    second: carry_9
+  - first:
+      213: -5065425045093790454
+    second: carry_10
+  - first:
+      213: -3434344436946553047
+    second: carry_11
+  - first:
+      213: 2278679909645229579
+    second: carry_12
+  - first:
+      213: -4441849069625225473
+    second: carry_13
+  - first:
+      213: 3402029787178122587
+    second: carry_14
+  - first:
+      213: 3955157866157763726
+    second: carry_15
+  - first:
+      213: 7238637107045308188
+    second: carry_16
+  - first:
+      213: -1413371265519468203
+    second: carry_17
+  - first:
+      213: 3893834564020021103
+    second: carry_18
+  - first:
+      213: 6753961537407230559
+    second: carry_19
+  - first:
+      213: 4241770046259228060
+    second: carry_20
+  - first:
+      213: -5576013917070147023
+    second: carry_21
+  - first:
+      213: 3536522088228382166
+    second: carry_22
+  - first:
+      213: -2244903221817552261
+    second: carry_23
+  - first:
+      213: 4156438678253646470
+    second: carry_24
+  - first:
+      213: 6914922621011371998
+    second: carry_25
+  - first:
+      213: -3797859447557897841
+    second: carry_26
+  - first:
+      213: 7068296446682768876
+    second: carry_27
+  - first:
+      213: -3547748825888363019
+    second: carry_28
+  - first:
+      213: 6495976954422102387
+    second: carry_29
+  - first:
+      213: 9133403568875290879
+    second: carry_30
+  - first:
+      213: -1795691853030744714
+    second: carry_31
+  - first:
+      213: -8087405508173988903
+    second: carry_32
+  - first:
+      213: -1833330816943641174
+    second: carry_33
+  - first:
+      213: 9087337921025822486
+    second: carry_34
+  - first:
+      213: 413211321284011528
+    second: carry_35
+  - first:
+      213: 2630389054127153063
+    second: carry_36
+  - first:
+      213: -5058796410438011818
+    second: carry_37
+  - first:
+      213: 8067010488958890990
+    second: carry_38
+  - first:
+      213: 244127776400466310
+    second: carry_39
+  - first:
+      213: -1802682395144860198
+    second: carry_40
+  - first:
+      213: -7194898442609512275
+    second: carry_41
+  - first:
+      213: -3800040889676005612
+    second: carry_42
+  - first:
+      213: -2117553695930848571
+    second: carry_43
+  - first:
+      213: -8810284476558695223
+    second: carry_44
+  - first:
+      213: -6737030508952917491
+    second: carry_45
+  - first:
+      213: -6266129058799047224
+    second: carry_46
+  - first:
+      213: -6665629149209632676
+    second: carry_47
+  - first:
+      213: 4214662072800256452
+    second: carry_48
+  - first:
+      213: 1778191962457067229
+    second: carry_49
+  - first:
+      213: -6596416325707627571
+    second: carry_50
+  - first:
+      213: 24483918923271257
+    second: carry_51
+  - first:
+      213: 2423352734825614439
+    second: carry_52
+  - first:
+      213: 2373241981562005701
+    second: carry_53
+  - first:
+      213: 7449321171082405708
+    second: carry_54
+  - first:
+      213: -3133825552579787109
+    second: carry_55
+  - first:
+      213: -1089867074661201322
+    second: carry_56
+  - first:
+      213: -1725963113566598597
+    second: carry_57
+  - first:
+      213: 2925364084244329436
+    second: carry_58
+  - first:
+      213: -2475555352800697523
+    second: carry_59
+  - first:
+      213: 2991562477199919699
+    second: carry_60
+  - first:
+      213: 8766848028298034471
+    second: carry_61
+  - first:
+      213: 1062777174194294380
+    second: carry_62
+  - first:
+      213: 8936304922858258815
+    second: carry_63
+  - first:
+      213: -3468975686339836423
+    second: carry_64
+  - first:
+      213: -3108715809894096282
+    second: carry_65
+  - first:
+      213: 4701511611400110489
+    second: carry_66
+  - first:
+      213: -3613705273104548553
+    second: carry_67
+  - first:
+      213: -3886409799485992935
+    second: carry_68
+  - first:
+      213: 5056135455722996889
+    second: carry_69
+  - first:
+      213: -6525421178320293536
+    second: carry_70
+  - first:
+      213: 816864366170286094
+    second: carry_71
+  - first:
+      213: 4133438548272172950
+    second: carry_72
+  - first:
+      213: -7398125351302038158
+    second: carry_73
+  - first:
+      213: 5336791734602238855
+    second: carry_74
+  - first:
+      213: -9033365855991894307
+    second: carry_75
+  - first:
+      213: -5075973710318411321
+    second: carry_76
+  - first:
+      213: -1729452511615119373
+    second: carry_77
+  - first:
+      213: 3890281594867036641
+    second: carry_78
+  - first:
+      213: 7673495237466308533
+    second: carry_79
+  - first:
+      213: 7586238843025325336
+    second: carry_80
+  - first:
+      213: -1307595954976669666
+    second: carry_81
+  - first:
+      213: -4224931948425660330
+    second: carry_82
+  - first:
+      213: 1671955681149592041
+    second: carry_83
+  - first:
+      213: -9090372709136892
+    second: carry_84
+  - first:
+      213: 3707593436276111293
+    second: carry_85
+  - first:
+      213: -1670789357572135934
+    second: carry_86
+  - first:
+      213: -1072475439786610194
+    second: carry_87
+  - first:
+      213: 4696548930153362278
+    second: carry_88
+  - first:
+      213: 6899311929463987107
+    second: carry_89
+  - first:
+      213: 5257477857092626537
+    second: carry_90
+  - first:
+      213: -3105549453683981322
+    second: carry_91
+  - first:
+      213: 4527099273877847026
+    second: carry_92
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: carry_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 96
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988a6ec65f5609440800000000000000
+      internalID: 4940560895993882761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carry_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 25
+        width: 96
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e66aa9347307a1e0800000000000000
+      internalID: -2186775296346528031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carry_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 25
+        width: 96
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7972f739956c2740800000000000000
+      internalID: 5128585784411191679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carry_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 25
+        width: 96
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3337d781b260870800000000000000
+      internalID: 8648647518595527678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carry_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 25
+        width: 96
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf05762e8943e21a0800000000000000
+      internalID: -6832465753436368645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carry_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 25
+        width: 96
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9ac0ca587a1be30800000000000000
+      internalID: 4517576093788318154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carry_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 25
+        width: 96
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf8ed00d5d93c6a0800000000000000
+      internalID: -6430122820182831137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carry_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 25
+        width: 96
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b542ed8e4f505ce0800000000000000
+      internalID: -1418529091629201991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

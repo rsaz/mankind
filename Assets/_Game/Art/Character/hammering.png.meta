@@ -1,0 +1,682 @@
+fileFormatVersion: 2
+guid: 6fd42f3b454495141979af9c35c10213
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8731853826958817358
+    second: hammering_0
+  - first:
+      213: -6349312962389506391
+    second: hammering_1
+  - first:
+      213: -7527064209649880171
+    second: hammering_2
+  - first:
+      213: 8101163903054754719
+    second: hammering_3
+  - first:
+      213: -8232565920416689219
+    second: hammering_4
+  - first:
+      213: 5107005287453999472
+    second: hammering_5
+  - first:
+      213: -32500645226546373
+    second: hammering_6
+  - first:
+      213: 3454741332230181367
+    second: hammering_7
+  - first:
+      213: -5598962882034610456
+    second: hammering_8
+  - first:
+      213: 1850135109758673887
+    second: hammering_9
+  - first:
+      213: 7086755575552100476
+    second: hammering_10
+  - first:
+      213: -1628119177777363649
+    second: hammering_11
+  - first:
+      213: 3528821717607066840
+    second: hammering_12
+  - first:
+      213: 7880156799379168618
+    second: hammering_13
+  - first:
+      213: -6397765282358905838
+    second: hammering_14
+  - first:
+      213: -4096811409356050278
+    second: hammering_15
+  - first:
+      213: -1954421800916839679
+    second: hammering_16
+  - first:
+      213: -3383049485537260759
+    second: hammering_17
+  - first:
+      213: -5094945090446129059
+    second: hammering_18
+  - first:
+      213: 5547384008061954536
+    second: hammering_19
+  - first:
+      213: 8751425834973180026
+    second: hammering_20
+  - first:
+      213: -4935836602662166778
+    second: hammering_21
+  - first:
+      213: -265341151723934109
+    second: hammering_22
+  - first:
+      213: -7437984939772522808
+    second: hammering_23
+  - first:
+      213: 4862974282388224781
+    second: hammering_24
+  - first:
+      213: 4407848767157382993
+    second: hammering_25
+  - first:
+      213: 9049866901785757548
+    second: hammering_26
+  - first:
+      213: -5299528579347475994
+    second: hammering_27
+  - first:
+      213: 7490331694129689291
+    second: hammering_28
+  - first:
+      213: 5563399229882260892
+    second: hammering_29
+  - first:
+      213: -952489538508608844
+    second: hammering_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hammering_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 23
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b70c7d253932d680800000000000000
+      internalID: -8731853826958817358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 23
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a68df43085b2e7a0800000000000000
+      internalID: -6349312962389506391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 23
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593334e3bfe7a8790800000000000000
+      internalID: -7527064209649880171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 23
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93bbc4e5ad1d6070800000000000000
+      internalID: 8101163903054754719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_4
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 23
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db39393d9ec00cd80800000000000000
+      internalID: -8232565920416689219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_5
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 23
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071ccb8304abfd640800000000000000
+      internalID: 5107005287453999472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_6
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 23
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bfc4ad5d88c8ff0800000000000000
+      internalID: -32500645226546373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_7
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 22
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1907a00f4b1ff20800000000000000
+      internalID: 3454741332230181367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_8
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 22
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eecab16cec7c42b0800000000000000
+      internalID: -5598962882034610456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_9
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 23
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3e4a374100da910800000000000000
+      internalID: 1850135109758673887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_10
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 23
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c784dc216a6395260800000000000000
+      internalID: 7086755575552100476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_11
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 23
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f354494eb32c769e0800000000000000
+      internalID: -1628119177777363649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_12
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 23
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc27a9d7a4e8f030800000000000000
+      internalID: 3528821717607066840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_13
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 23
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ddf51bbd0fb5d60800000000000000
+      internalID: 7880156799379168618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_14
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 23
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214bbac5f529637a0800000000000000
+      internalID: -6397765282358905838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_15
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 23
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90b091aab33527c0800000000000000
+      internalID: -4096811409356050278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_16
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 23
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103921f1abf70e4e0800000000000000
+      internalID: -1954421800916839679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_18
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 23
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5886d53f6e1b49b0800000000000000
+      internalID: -5094945090446129059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_19
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 22
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e927313d544cfc40800000000000000
+      internalID: 5547384008061954536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_17
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 23
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bcbf4ca6efc01d0800000000000000
+      internalID: -3383049485537260759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_20
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 22
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70b0cb0e6f437970800000000000000
+      internalID: 8751425834973180026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_21
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 22
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f53f4d2c2608bb0800000000000000
+      internalID: -4935836602662166778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammering_22
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 22
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ea33bd0a1515cf0800000000000000
+      internalID: -265341151723934109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

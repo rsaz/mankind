@@ -1,0 +1,634 @@
+fileFormatVersion: 2
+guid: 809b0a5eb6ca94b4590b8cdb42968057
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3908347705296014475
+    second: fishing_casting_0
+  - first:
+      213: 2882032658110770597
+    second: fishing_casting_1
+  - first:
+      213: 8158634595447649509
+    second: fishing_casting_2
+  - first:
+      213: -802251664935031733
+    second: fishing_casting_3
+  - first:
+      213: 7571018667659421725
+    second: fishing_casting_4
+  - first:
+      213: 1287401532521718267
+    second: fishing_casting_5
+  - first:
+      213: 3004744978205610705
+    second: fishing_casting_6
+  - first:
+      213: -7499131267976657768
+    second: fishing_casting_7
+  - first:
+      213: 1027741841745574370
+    second: fishing_casting_8
+  - first:
+      213: -5836924796611036701
+    second: fishing_casting_9
+  - first:
+      213: -8845155419603030559
+    second: fishing_casting_10
+  - first:
+      213: -5811613609594332213
+    second: fishing_casting_11
+  - first:
+      213: 4267404954088820327
+    second: fishing_casting_12
+  - first:
+      213: -2425442616737490823
+    second: fishing_casting_13
+  - first:
+      213: -4377964180488926033
+    second: fishing_casting_14
+  - first:
+      213: 7672206920373115658
+    second: fishing_casting_0
+  - first:
+      213: -1773655186032614650
+    second: fishing_casting_1
+  - first:
+      213: 66912360682738306
+    second: fishing_casting_2
+  - first:
+      213: 5021220778550222102
+    second: fishing_casting_3
+  - first:
+      213: 4307160386955734475
+    second: fishing_casting_4
+  - first:
+      213: -441856308464791737
+    second: fishing_casting_5
+  - first:
+      213: 3527147178967676946
+    second: fishing_casting_6
+  - first:
+      213: 3924852246580625740
+    second: fishing_casting_7
+  - first:
+      213: 7493601582359764228
+    second: fishing_casting_8
+  - first:
+      213: 6955349617523587429
+    second: fishing_casting_9
+  - first:
+      213: -7321904800686791747
+    second: fishing_casting_10
+  - first:
+      213: -642456471249118601
+    second: fishing_casting_11
+  - first:
+      213: -562372852154708984
+    second: fishing_casting_12
+  - first:
+      213: 6909709539717993670
+    second: fishing_casting_13
+  - first:
+      213: 7254754067846112440
+    second: fishing_casting_14
+  - first:
+      213: 2700959452290933521
+    second: fishing_casting_15
+  - first:
+      213: 3226984547999530550
+    second: fishing_casting_16
+  - first:
+      213: 6028561125019121461
+    second: fishing_casting_17
+  - first:
+      213: -8789236428673676072
+    second: fishing_casting_18
+  - first:
+      213: -3487796449750940482
+    second: fishing_casting_19
+  - first:
+      213: 5090575596431710795
+    second: fishing_casting_20
+  - first:
+      213: 6339611863313224186
+    second: fishing_casting_21
+  - first:
+      213: -3255295208532420793
+    second: fishing_casting_22
+  - first:
+      213: 4018728444260518050
+    second: fishing_casting_23
+  - first:
+      213: 5689047813542009185
+    second: fishing_casting_24
+  - first:
+      213: 3758390792515244091
+    second: fishing_casting_25
+  - first:
+      213: 5804240000615080796
+    second: fishing_casting_26
+  - first:
+      213: -4928170407693853080
+    second: fishing_casting_27
+  - first:
+      213: -8134790970915685017
+    second: fishing_casting_28
+  - first:
+      213: 2854089818788044617
+    second: fishing_casting_29
+  - first:
+      213: 4181894278049696343
+    second: fishing_casting_30
+  - first:
+      213: 6625358403316284073
+    second: fishing_casting_31
+  - first:
+      213: -7279488102012888338
+    second: fishing_casting_32
+  - first:
+      213: -5302970228241468316
+    second: fishing_casting_33
+  - first:
+      213: -3600670515923003172
+    second: fishing_casting_34
+  - first:
+      213: -6219872362318503613
+    second: fishing_casting_35
+  - first:
+      213: 2280963741385026702
+    second: fishing_casting_36
+  - first:
+      213: 524734167679806350
+    second: fishing_casting_37
+  - first:
+      213: 7947068596420455317
+    second: fishing_casting_38
+  - first:
+      213: -581334512112015002
+    second: fishing_casting_39
+  - first:
+      213: 7387438922815427170
+    second: fishing_casting_40
+  - first:
+      213: -8904779833311167862
+    second: fishing_casting_41
+  - first:
+      213: -5699219380443342768
+    second: fishing_casting_42
+  - first:
+      213: 6532722950356677373
+    second: fishing_casting_43
+  - first:
+      213: -6641247273159506634
+    second: fishing_casting_44
+  - first:
+      213: -5976317669949818886
+    second: fishing_casting_45
+  - first:
+      213: -1963083713317295691
+    second: fishing_casting_46
+  - first:
+      213: 6559607394109846005
+    second: fishing_casting_47
+  - first:
+      213: -3583468691625219102
+    second: fishing_casting_48
+  - first:
+      213: -2808485256499060441
+    second: fishing_casting_49
+  - first:
+      213: 2381055007707040437
+    second: fishing_casting_50
+  - first:
+      213: -1961405673405262987
+    second: fishing_casting_51
+  - first:
+      213: -5863597293769219211
+    second: fishing_casting_52
+  - first:
+      213: 5729749284021172274
+    second: fishing_casting_53
+  - first:
+      213: 1584329422528049929
+    second: fishing_casting_54
+  - first:
+      213: 938559784699969559
+    second: fishing_casting_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fishing_casting_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b12248b87297a60800000000000000
+      internalID: 7672206920373115658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_casting_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6032f7a6106b267e0800000000000000
+      internalID: -1773655186032614650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_casting_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282d3910078bde000800000000000000
+      internalID: 66912360682738306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_casting_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ddb4cc1b5fea540800000000000000
+      internalID: 5021220778550222102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_casting_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd61273d8b16cb30800000000000000
+      internalID: 4307160386955734475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_casting_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fc03c47063ed9f0800000000000000
+      internalID: -441856308464791737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_casting_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218b3e0fba1f2f030800000000000000
+      internalID: 3527147178967676946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_casting_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c410551d250e77630800000000000000
+      internalID: 3924852246580625740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_casting_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ddbd4bfee9ef760800000000000000
+      internalID: 7493601582359764228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_casting_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569742940ad568060800000000000000
+      internalID: 6955349617523587429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_casting_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db326db706e536a90800000000000000
+      internalID: -7321904800686791747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_casting_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a9b874e398517f0800000000000000
+      internalID: -642456471249118601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_casting_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ccefbdedc0238f0800000000000000
+      internalID: -562372852154708984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_casting_13
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 2
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4d408973834ef50800000000000000
+      internalID: 6909709539717993670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_casting_14
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4a9ca23601ea460800000000000000
+      internalID: 7254754067846112440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
