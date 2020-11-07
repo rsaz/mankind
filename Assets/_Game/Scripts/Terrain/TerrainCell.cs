@@ -23,7 +23,6 @@ public class TerrainCell
 
     private Tilemap tilemap;
 	private TileBase tileBuy;
-	private TileBase tileSell;
 
     public TerrainCell(int id, Vector3 center, int cellSize, Tilemap tilemap, TileBase tileBuy, bool available = true, int ownerId = -1)
     {
@@ -49,7 +48,6 @@ public class TerrainCell
     {
         this.ownerId = -1;
         available = true;
-        RenderMap(tilemap ? tilemap : this.tilemap, tile ? tile : this.tileSell);
     }
 
     private int[,] GenerateArray(int width, int height)
@@ -58,7 +56,7 @@ public class TerrainCell
         return map;
     }
 
-    public void RenderMap(Tilemap tilemap, TileBase tile)
+    public void RenderMap(Tilemap tilemap, TileBase tile = null)
     {
         //Loop through the width of the map
         for (int x = 0; x <= map.GetUpperBound(0) ; x++) 

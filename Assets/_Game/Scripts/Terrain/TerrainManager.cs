@@ -16,10 +16,13 @@ public class TerrainManager : MonoBehaviour
 
     [Header("Tiles Config - Ground")]
     [Tooltip("The default ground Tilemap")]
-      public Tilemap tilemapGround;
+    public Tilemap tilemapGround;
     [Tooltip("The default ground tile")]
     public TileBase[] tileGround;
-    [Tooltip("Randomize tilegrounds")]
+
+    [Header("Tiles Config - Environment")]
+    public TerrainLayer environment;
+    private Tilemap environmentInstance;
     
     [Header("Map Properties")]
     [SerializeField] private int mapWidth = 80;
@@ -46,6 +49,8 @@ public class TerrainManager : MonoBehaviour
         numberOfCellsX = Mathf.FloorToInt(mapWidth/cellSize);
         numberOfCellsY = Mathf.FloorToInt(mapHeight/cellSize);
 
+        environmentInstance = Instantiate(environment.tilemap, transform);
+
         for(int i = 0; i < numberOfCellsX; i++)
         {
             for(int j = 0; j < numberOfCellsY; j++)
@@ -55,6 +60,7 @@ public class TerrainManager : MonoBehaviour
 
                 TerrainCell newCell = new TerrainCell(cells.Count, cellPosition, cellSize, tilemapBuilder, tilesInitialTerrain);
                 newCell.RenderMap(tilemapGround, tileGround);
+                newCell.RenderMap(environmentInstance, environment.tile);
                 cells.Add(newCell);
             }
         }
@@ -73,6 +79,7 @@ public class TerrainManager : MonoBehaviour
         TerrainCell cell = cells[randomCell];
         cell.OwnerId = newOwnerId;
         cell.RenderMap(tilemapBuilder, tilesInitialTerrain);
+        cell.RenderMap(environmentInstance);
         return cell.Center;
     }    
 
