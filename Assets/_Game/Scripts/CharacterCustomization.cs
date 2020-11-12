@@ -1,16 +1,23 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
+using Random = UnityEngine.Random;
 using UnityEngine;
 
 public class CharacterCustomization : MonoBehaviour
 {
+    #region Properties
+
     [Header("Body part to be changed")]
-    public SpriteRenderer part;
+    [SerializeField] protected SpriteRenderer part;
 
     [Header("Sprites to select")]
-    public List<Sprite> options = new List<Sprite>();
+    [SerializeField] protected List<Sprite> options = new List<Sprite>();
 
-    private int currentOption = 0;
+    //SpriteRenderer currentPart = part;
+    protected int currentOption = 0;
+
+    #endregion
+
+    #region Methods
 
     public void NextOption()
     {
@@ -32,4 +39,10 @@ public class CharacterCustomization : MonoBehaviour
         }
         part.sprite = options[currentOption];
     }
+    public void RandomCustomization(){    
+        currentOption = Random.Range(0, options.Count - 1);
+        part.sprite = options[currentOption];
+    }
+
+    #endregion
 }
