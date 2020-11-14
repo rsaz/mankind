@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f1112c1cc44841fc95f4c88362b3ae5, type: 3}
+  m_Name: EnvironmentTilemapData
+  m_EditorClassIdentifier: 
+  tile:
+  - {fileID: 11400000, guid: b3ffd9040d563f042b692f4f7bafc68d, type: 2}
+  - {fileID: 11400000, guid: 1f9b0ecbfe82e75469ec2991929d3665, type: 2}
+  - {fileID: 11400000, guid: cef9e2edc94baac418b6ee0d4e4cf8e5, type: 2}
+  - {fileID: 11400000, guid: bf7b28566f8ddd24faf4bcf44efb943f, type: 2}
+  - {fileID: 11400000, guid: a17c391fa3db95a458e6881ff22f399b, type: 2}
+  - {fileID: 11400000, guid: 696daa98f1b19ab40ad4047464502881, type: 2}
+  - {fileID: 11400000, guid: a99eff477f6dddc4fac54d135883f7e2, type: 2}
+  - {fileID: 11400000, guid: baab15ee3848ec54192615b24ea85676, type: 2}
+  - {fileID: 11400000, guid: 652ceaaca413b664288792fb5122482f, type: 2}
+  spawnPercentage:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  densityFactor: 0.185

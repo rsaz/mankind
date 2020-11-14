@@ -38,6 +38,21 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Ground
+    uniqueID: 3545908349
+    locked: 0
+  - name: Terrain
+    uniqueID: 3201167269
+    locked: 0
+  - name: Water
+    uniqueID: 4275969531
+    locked: 0
+  - name: TRC
+    uniqueID: 489111557
+    locked: 0
+  - name: Builder
+    uniqueID: 191875081
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
