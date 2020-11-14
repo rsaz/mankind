@@ -10,16 +10,23 @@ public class TerrainManager : MonoBehaviour
 
     [Header("Tiles Config - Builder")]
     [Tooltip("The Tilemap to build and manipulate terrain")]
+	public Tilemap tilemapTerrain;
+    [Tooltip("The Tilemap used by the player to create buildings")]
 	public Tilemap tilemapBuilder;
 	[Tooltip("The initials tiles that every player receives at the beggining of the game")]
 	public TileBase tilesInitialTerrain;
 
     [Header("Tiles Config - Ground")]
     [Tooltip("The default ground Tilemap")]
-      public Tilemap tilemapGround;
+    public Tilemap tilemapGround;
+    [Tooltip("The default water Tilemap")]
+    public Tilemap tilemapWater;
     [Tooltip("The default ground tile")]
     public TileBase[] tileGround;
-    [Tooltip("Randomize tilegrounds")]
+
+    [Header("Tiles Config - Environment")]
+    public TerrainLayer environment;
+    public Tilemap environmentTilemap;
     
     [Header("Map Properties")]
     [SerializeField] private int mapWidth = 80;
@@ -53,11 +60,20 @@ public class TerrainManager : MonoBehaviour
                 Vector2 cellPosition = new Vector2(transform.position.x - (mapWidth/2) + (cellSize/2) + (cellSize*i), 
                     transform.position.y - (mapHeight/2) + (cellSize/2) + (cellSize*j));
 
-                TerrainCell newCell = new TerrainCell(cells.Count, cellPosition, cellSize, tilemapBuilder, tilesInitialTerrain);
+                TerrainCell newCell = new TerrainCell(cells.Count, cellPosition, cellSize, tilemapTerrain, tilesInitialTerrain);
                 newCell.RenderMap(tilemapGround, tileGround);
                 cells.Add(newCell);
+                
+                
             }
         }
+
+        if(environment) {
+            environment.ProceduralGeneration(environmentTilemap, mapWidth, mapHeight, new Tilemap[] {tilemapBuilder, tilemapTerrain, tilemapWater});
+        }
+        #if UNITY_EDITOR
+            if(!environment) Debug.LogWarning("No environment layer settings assigned, skipping procedural generation.");
+        #endif
     }
 
     public Vector3 RandomCellPosition(int newOwnerId)
@@ -72,7 +88,8 @@ public class TerrainManager : MonoBehaviour
 
         TerrainCell cell = cells[randomCell];
         cell.OwnerId = newOwnerId;
-        cell.RenderMap(tilemapBuilder, tilesInitialTerrain);
+        cell.RenderMap(tilemapTerrain, tilesInitialTerrain);
+        cell.RenderMap(environmentTilemap);
         return cell.Center;
     }    
 
