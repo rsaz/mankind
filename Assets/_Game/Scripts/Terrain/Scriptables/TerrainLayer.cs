@@ -106,7 +106,7 @@ public class TerrainLayer : ScriptableObject
                         break;
                 }
 
-                tilemap.SetTile(coordinate, nextTile); 
+                tilemap.SetTile(coordinate, nextTile);
             }
         }
     }
