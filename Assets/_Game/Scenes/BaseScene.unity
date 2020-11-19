@@ -785,16 +785,16 @@ MonoBehaviour:
   tilemapTerrain: {fileID: 1707317869}
   tilemapBuilder: {fileID: 561421038}
   tilesInitialTerrain: {fileID: 11400000, guid: 5cc44b9cb2764c6478aa572c228d575b, type: 2}
+  ground: {fileID: 0}
   tilemapGround: {fileID: 931896776}
   tilemapWater: {fileID: 315202591}
-  tileGround:
-  - {fileID: 11400000, guid: 6820e2307ae02014cada72246f59299b, type: 2}
-  - {fileID: 11400000, guid: b801210ba2fd0a84b83ea492739740d2, type: 2}
   environment: {fileID: 11400000, guid: 023dcceed445446ad96c01dd98f00b9e, type: 2}
-  environmentTilemap: {fileID: 59050364}
-  mapWidth: 500
-  mapHeight: 500
+  tilemapEnvironment: {fileID: 561421038}
+  mapWidth: 100
+  mapHeight: 100
   cellSize: 10
+  mapWidthOffset: 80
+  mapHeightOffset: 80
 --- !u!156049354 &301585268
 Grid:
   m_ObjectHideFlags: 0
