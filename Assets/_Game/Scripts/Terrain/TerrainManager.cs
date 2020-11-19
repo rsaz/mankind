@@ -17,21 +17,27 @@ public class TerrainManager : MonoBehaviour
 	public TileBase tilesInitialTerrain;
 
     [Header("Tiles Config - Ground")]
+    public TerrainLayer ground;
     [Tooltip("The default ground Tilemap")]
     public Tilemap tilemapGround;
+
     [Tooltip("The default water Tilemap")]
     public Tilemap tilemapWater;
-    [Tooltip("The default ground tile")]
-    public TileBase[] tileGround;
 
     [Header("Tiles Config - Environment")]
     public TerrainLayer environment;
-    public Tilemap environmentTilemap;
+    [Tooltip("The default Tilemap for trees, rocks and crops")]
+    public Tilemap tilemapEnvironment;
     
     [Header("Map Properties")]
     [SerializeField] private int mapWidth = 80;
     [SerializeField] private int mapHeight = 80;
     [SerializeField, Min(1)] private int cellSize = 10;
+
+    [Tooltip("How much we need to draw beyond map width boundary")]
+    [SerializeField] private int mapWidthOffset = 80;
+    [Tooltip("How much we need to draw beyond map height boundary")]
+    [SerializeField] private int mapHeightOffset = 80;
 
     private List<TerrainCell> cells = new List<TerrainCell>(); 
     private int numberOfCellsX;
@@ -61,18 +67,23 @@ public class TerrainManager : MonoBehaviour
                     transform.position.y - (mapHeight/2) + (cellSize/2) + (cellSize*j));
 
                 TerrainCell newCell = new TerrainCell(cells.Count, cellPosition, cellSize, tilemapTerrain, tilesInitialTerrain);
-                newCell.RenderMap(tilemapGround, tileGround);
-                cells.Add(newCell);
-                
-                
+                cells.Add(newCell);              
             }
         }
 
-        if(environment) {
-            environment.ProceduralGeneration(environmentTilemap, mapWidth, mapHeight, new Tilemap[] {tilemapBuilder, tilemapTerrain, tilemapWater});
+        if(ground) {
+            ground.ProceduralGeneration(tilemapGround, mapWidth+(mapWidthOffset*2), mapHeight+(mapHeightOffset*2), SortingMethod.Sequential);
         }
         #if UNITY_EDITOR
-            if(!environment) Debug.LogWarning("No environment layer settings assigned, skipping procedural generation.");
+            if(!ground) Debug.LogError("No ground layer settings assigned, skipping ground texture procedural generation.");
+        #endif
+
+        if(environment) {
+            environment.ProceduralGeneration(tilemapEnvironment, mapWidth, mapHeight, SortingMethod.Random, new Tilemap[] {tilemapBuilder, tilemapTerrain, tilemapWater});
+            environment.DrawOutsideBoundaries(tilemapEnvironment, mapWidth, mapHeight, Mathf.Max(mapHeightOffset, mapWidthOffset), SortingMethod.Random);
+        }
+        #if UNITY_EDITOR
+            if(!environment) Debug.LogError("No environment layer settings assigned, skipping trees procedural generation.");
         #endif
     }
 
@@ -89,7 +100,7 @@ public class TerrainManager : MonoBehaviour
         TerrainCell cell = cells[randomCell];
         cell.OwnerId = newOwnerId;
         cell.RenderMap(tilemapTerrain, tilesInitialTerrain);
-        cell.RenderMap(environmentTilemap);
+        cell.RenderMap(tilemapEnvironment);
         return cell.Center;
     }    
 
