@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f1112c1cc44841fc95f4c88362b3ae5, type: 3}
+  m_Name: GroundTilemapData
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: 11400000, guid: 6820e2307ae02014cada72246f59299b, type: 2}
+  - {fileID: 11400000, guid: b801210ba2fd0a84b83ea492739740d2, type: 2}
+  densityFactor: 1
+  tilesOffBoundary: []

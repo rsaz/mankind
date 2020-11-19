@@ -1,0 +1,10 @@
+diff a/Assets/_Game/Scenes/Scenes Test/TilesSunnySidePlayground.unity b/Assets/_Game/Scenes/Scenes Test/TilesSunnySidePlayground.unity	(rejected hunks)
+@@ -193,7 +193,7 @@
+   m_AutoUVMaxAngle: 89
+   m_LightmapParameters: {fileID: 0}
+   m_SortingLayerID: -365229943
+-  m_SortingLayer: -1
++  m_SortingLayer: 0
+   m_SortingOrder: 1
+   m_ChunkSize: {x: 32, y: 32, z: 32}
+   m_ChunkCullingBounds: {x: 2.25, y: 2.09375, z: 0}

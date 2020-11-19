@@ -193,7 +193,7 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -365229943
-  m_SortingLayer: 0
+  m_SortingLayer: -1
   m_SortingOrder: 1
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 2.25, y: 2.09375, z: 0}
@@ -3029,13 +3029,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!4 &187896387 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4497122572690953304, guid: da563c76b65aeb7478b42733853260e5, type: 3}
-  m_PrefabInstance: {fileID: 635893913}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &301585266
 GameObject:
   m_ObjectHideFlags: 0
