@@ -15,9 +15,9 @@ MonoBehaviour:
   AppID: 6f07d691-a728-4df4-8ba6-7b2250b75480
   VoiceAppID: 
   ChatAppID: 
-  HostType: 1
-  PreferredRegion: 1
-  EnabledRegions: -1
+  HostType: 4
+  PreferredRegion: 0
+  EnabledRegions: 64
   Protocol: 0
   ServerAddress: 
   ServerPort: 5055

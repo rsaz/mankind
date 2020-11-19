@@ -6,6 +6,7 @@ public class PhotonManager : Photon.MonoBehaviour
 {
     public bool AutoConnect = true;
     public byte Version = 1;
+    public byte MaxPlayers = 10;
     private bool ConnectInUpdate = true;
 
     public TerrainManager terrainManager;
@@ -32,7 +33,7 @@ public class PhotonManager : Photon.MonoBehaviour
 
     public virtual void OnJoinedLobby()
     {
-        PhotonNetwork.JoinOrCreateRoom("Room", new RoomOptions() { MaxPlayers = 4 }, TypedLobby.Default);
+        PhotonNetwork.JoinOrCreateRoom("Room", new RoomOptions() { MaxPlayers = MaxPlayers }, TypedLobby.Default);
     }
 
     public virtual void OnJoinedRoom()

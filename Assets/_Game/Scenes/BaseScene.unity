@@ -792,8 +792,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: b801210ba2fd0a84b83ea492739740d2, type: 2}
   environment: {fileID: 11400000, guid: 023dcceed445446ad96c01dd98f00b9e, type: 2}
   environmentTilemap: {fileID: 59050364}
-  mapWidth: 120
-  mapHeight: 120
+  mapWidth: 500
+  mapHeight: 500
   cellSize: 10
 --- !u!156049354 &301585268
 Grid:
@@ -1677,7 +1677,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_TrackedObjectOffset: {x: 0, y: 0, z: 0}
-  m_LookaheadTime: 0.292
+  m_LookaheadTime: 0.871
   m_LookaheadSmoothing: 10
   m_LookaheadIgnoreY: 0
   m_XDamping: 3.15
@@ -1687,8 +1687,8 @@ MonoBehaviour:
   m_ScreenX: 0.5
   m_ScreenY: 0.5
   m_CameraDistance: 10
-  m_DeadZoneWidth: 0.48
-  m_DeadZoneHeight: 0.58
+  m_DeadZoneWidth: 0.3
+  m_DeadZoneHeight: 0.3
   m_DeadZoneDepth: 0
   m_UnlimitedSoftZone: 0
   m_SoftZoneWidth: 0.8
@@ -1805,7 +1805,7 @@ Camera:
   far clip plane: 5000
   field of view: 40
   orthographic: 1
-  orthographic size: 12.3
+  orthographic size: 12.5
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -2387,6 +2387,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   AutoConnect: 1
   Version: 1
+  MaxPlayers: 10
   terrainManager: {fileID: 301585267}
   playerPrefab: {fileID: 4497122572690953310, guid: da563c76b65aeb7478b42733853260e5, type: 3}
 --- !u!4 &627417047
@@ -2767,7 +2768,7 @@ MonoBehaviour:
   m_Follow: {fileID: 0}
   m_Lens:
     FieldOfView: 40
-    OrthographicSize: 12.3
+    OrthographicSize: 12.5
     NearClipPlane: 0.1
     FarClipPlane: 5000
     Dutch: 0
