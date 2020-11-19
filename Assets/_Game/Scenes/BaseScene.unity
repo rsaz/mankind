@@ -1115,16 +1115,16 @@ MonoBehaviour:
   tilemapTerrain: {fileID: 1707317869}
   tilemapBuilder: {fileID: 561421038}
   tilesInitialTerrain: {fileID: 11400000, guid: 5cc44b9cb2764c6478aa572c228d575b, type: 2}
-  ground: {fileID: 11400000, guid: 2269001d702994517afc793fae438e0a, type: 2}
+  ground: {fileID: 0}
   tilemapGround: {fileID: 931896776}
   tilemapWater: {fileID: 315202591}
   environment: {fileID: 11400000, guid: 023dcceed445446ad96c01dd98f00b9e, type: 2}
-  tilemapEnvironment: {fileID: 59050364}
-  mapWidth: 120
-  mapHeight: 120
+  tilemapEnvironment: {fileID: 561421038}
+  mapWidth: 100
+  mapHeight: 100
   cellSize: 10
-  mapWidthOffset: 20
-  mapHeightOffset: 20
+  mapWidthOffset: 80
+  mapHeightOffset: 80
 --- !u!156049354 &301585268
 Grid:
   m_ObjectHideFlags: 0
@@ -2007,7 +2007,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_TrackedObjectOffset: {x: 0, y: 0, z: 0}
-  m_LookaheadTime: 0.292
+  m_LookaheadTime: 0.871
   m_LookaheadSmoothing: 10
   m_LookaheadIgnoreY: 0
   m_XDamping: 3.15
@@ -2017,8 +2017,8 @@ MonoBehaviour:
   m_ScreenX: 0.5
   m_ScreenY: 0.5
   m_CameraDistance: 10
-  m_DeadZoneWidth: 0.48
-  m_DeadZoneHeight: 0.58
+  m_DeadZoneWidth: 0.3
+  m_DeadZoneHeight: 0.3
   m_DeadZoneDepth: 0
   m_UnlimitedSoftZone: 0
   m_SoftZoneWidth: 0.8
@@ -2135,7 +2135,7 @@ Camera:
   far clip plane: 5000
   field of view: 40
   orthographic: 1
-  orthographic size: 12.3
+  orthographic size: 12.5
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -3032,6 +3032,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   AutoConnect: 1
   Version: 1
+  MaxPlayers: 10
   terrainManager: {fileID: 301585267}
   playerPrefab: {fileID: 4497122572690953310, guid: da563c76b65aeb7478b42733853260e5, type: 3}
 --- !u!4 &627417047
@@ -3412,7 +3413,7 @@ MonoBehaviour:
   m_Follow: {fileID: 0}
   m_Lens:
     FieldOfView: 40
-    OrthographicSize: 12.3
+    OrthographicSize: 12.5
     NearClipPlane: 0.1
     FarClipPlane: 5000
     Dutch: 0
