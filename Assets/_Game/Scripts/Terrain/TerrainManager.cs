@@ -26,6 +26,7 @@ public class TerrainManager : MonoBehaviour
 
     [Header("Tiles Config - Environment")]
     public TerrainLayer environment;
+    public TerrainLayer offBoundaryEnvironment;
     [Tooltip("The default Tilemap for trees, rocks and crops")]
     public Tilemap tilemapEnvironment;
     
@@ -72,15 +73,15 @@ public class TerrainManager : MonoBehaviour
         }
 
         if(ground) {
-            ground.ProceduralGeneration(tilemapGround, mapWidth+(mapWidthOffset*2), mapHeight+(mapHeightOffset*2), SortingMethod.Sequential);
+            ground.ProceduralGeneration(tilemapGround, mapWidth+(mapWidthOffset*2), mapHeight+(mapHeightOffset*2), TileSortingMethod.Sequential);
         }
         #if UNITY_EDITOR
             if(!ground) Debug.LogError("No ground layer settings assigned, skipping ground texture procedural generation.");
         #endif
 
         if(environment) {
-            environment.ProceduralGeneration(tilemapEnvironment, mapWidth, mapHeight, SortingMethod.Random, new Tilemap[] {tilemapBuilder, tilemapTerrain, tilemapWater});
-            environment.DrawOutsideBoundaries(tilemapEnvironment, mapWidth, mapHeight, Mathf.Max(mapHeightOffset, mapWidthOffset), SortingMethod.Random);
+            environment.ProceduralGeneration(tilemapEnvironment, mapWidth, mapHeight, TileSortingMethod.Random, new Tilemap[] {tilemapBuilder, tilemapTerrain, tilemapWater});
+            offBoundaryEnvironment.DrawOutsideBoundaries(tilemapEnvironment, mapWidth, mapHeight, Mathf.Max(mapHeightOffset, mapWidthOffset), TileSortingMethod.Random);
         }
         #if UNITY_EDITOR
             if(!environment) Debug.LogError("No environment layer settings assigned, skipping trees procedural generation.");

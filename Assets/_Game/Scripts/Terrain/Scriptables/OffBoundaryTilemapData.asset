@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1f1112c1cc44841fc95f4c88362b3ae5, type: 3}
-  m_Name: EnvironmentTilemapData
+  m_Name: OffBoundaryTilemapData
   m_EditorClassIdentifier: 
   tiles:
   - {fileID: 11400000, guid: baab15ee3848ec54192615b24ea85676, type: 2}
@@ -25,4 +25,4 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a99eff477f6dddc4fac54d135883f7e2, type: 2}
   - {fileID: 11400000, guid: 62f48304387826344b0d6f85eb0f5f91, type: 2}
   - {fileID: 11400000, guid: 3e546271a73dab340993c51d3304565d, type: 2}
-  densityFactor: 0.172
+  densityFactor: 0.37
