@@ -25,7 +25,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a99eff477f6dddc4fac54d135883f7e2, type: 2}
   - {fileID: 11400000, guid: 62f48304387826344b0d6f85eb0f5f91, type: 2}
   - {fileID: 11400000, guid: 3e546271a73dab340993c51d3304565d, type: 2}
-  densityFactor: 0.185
+  densityFactor: 0.172
   tilesOffBoundary:
   - {fileID: 11400000, guid: b3ffd9040d563f042b692f4f7bafc68d, type: 2}
   - {fileID: 11400000, guid: 1f9b0ecbfe82e75469ec2991929d3665, type: 2}

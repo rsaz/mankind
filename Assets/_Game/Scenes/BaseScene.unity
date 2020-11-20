@@ -785,7 +785,7 @@ MonoBehaviour:
   tilemapTerrain: {fileID: 1707317869}
   tilemapBuilder: {fileID: 561421038}
   tilesInitialTerrain: {fileID: 11400000, guid: 5cc44b9cb2764c6478aa572c228d575b, type: 2}
-  ground: {fileID: 0}
+  ground: {fileID: 11400000, guid: 2269001d702994517afc793fae438e0a, type: 2}
   tilemapGround: {fileID: 931896776}
   tilemapWater: {fileID: 315202591}
   environment: {fileID: 11400000, guid: 023dcceed445446ad96c01dd98f00b9e, type: 2}
