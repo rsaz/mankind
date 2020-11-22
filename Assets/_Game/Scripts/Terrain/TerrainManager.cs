@@ -17,7 +17,7 @@ public class TerrainManager : MonoBehaviour
 	public TileBase tilesInitialTerrain;
 
     [Header("Tiles Config - Ground")]
-    public TerrainLayer ground;
+    public TerrainLayer groundData;
     [Tooltip("The default ground Tilemap")]
     public Tilemap tilemapGround;
 
@@ -25,10 +25,16 @@ public class TerrainManager : MonoBehaviour
     public Tilemap tilemapWater;
 
     [Header("Tiles Config - Environment")]
-    public TerrainLayer environment;
-    public TerrainLayer offBoundaryEnvironment;
+    public TerrainLayer environmentData;
+    public TerrainLayer boundaryEnvironmentData;
     [Tooltip("The default Tilemap for trees, rocks and crops")]
     public Tilemap tilemapEnvironment;
+
+    [Header("Tiles Config - Off Boundary")]
+    public TerrainLayer offBoundaryEnvironmentData;
+    [Tooltip("The default Tilemap for trees outside map limits")]
+    public Tilemap tilemapOffBoundary;
+    
     
     [Header("Map Properties")]
     [SerializeField] private int mapWidth = 80;
@@ -72,19 +78,26 @@ public class TerrainManager : MonoBehaviour
             }
         }
 
-        if(ground) {
-            ground.ProceduralGeneration(tilemapGround, mapWidth+(mapWidthOffset*2), mapHeight+(mapHeightOffset*2), TileSortingMethod.Sequential);
+        if(groundData) {
+            groundData.ProceduralGeneration(tilemapGround, mapWidth+(mapWidthOffset*2), mapHeight+(mapHeightOffset*2), TileSortingMethod.Sequential);
         }
         #if UNITY_EDITOR
-            if(!ground) Debug.LogError("No ground layer settings assigned, skipping ground texture procedural generation.");
+            if(!groundData) Debug.LogError("No ground layer settings assigned, skipping ground texture procedural generation.");
         #endif
 
-        if(environment) {
-            environment.ProceduralGeneration(tilemapEnvironment, mapWidth, mapHeight, TileSortingMethod.Random, new Tilemap[] {tilemapBuilder, tilemapTerrain, tilemapWater});
-            offBoundaryEnvironment.DrawOutsideBoundaries(tilemapEnvironment, mapWidth, mapHeight, Mathf.Max(mapHeightOffset, mapWidthOffset), TileSortingMethod.Random);
+        if(environmentData) {
+            environmentData.ProceduralGeneration(tilemapEnvironment, mapWidth, mapHeight, TileSortingMethod.Random, new Tilemap[] {tilemapBuilder, tilemapTerrain, tilemapWater});
+            boundaryEnvironmentData.DrawOutsideBoundaries(tilemapEnvironment, mapWidth, mapHeight, mapWidthOffset, mapHeightOffset, TileSortingMethod.Random);
         }
         #if UNITY_EDITOR
-            if(!environment) Debug.LogError("No environment layer settings assigned, skipping trees procedural generation.");
+            if(!environmentData) Debug.LogError("No environment layer settings assigned, skipping trees procedural generation.");
+        #endif
+
+        if(offBoundaryEnvironmentData) {
+            offBoundaryEnvironmentData.DrawOutsideBoundaries(tilemapOffBoundary, mapWidth+2, mapHeight+2, mapWidthOffset-1, mapHeightOffset-1, TileSortingMethod.Random);
+        }
+        #if UNITY_EDITOR
+            if(!offBoundaryEnvironmentData) Debug.LogError("No offBoundaryEnvironment layer settings assigned, skipping trees procedural generation outside map limits.");
         #endif
     }
 

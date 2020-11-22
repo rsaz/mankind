@@ -13,5 +13,14 @@ MonoBehaviour:
   m_Name: OffBoundaryTilemapData
   m_EditorClassIdentifier: 
   tiles:
-  - {fileID: 11400000, guid: cef9e2edc94baac418b6ee0d4e4cf8e5, type: 2}
-  densityFactor: 0
+  - {fileID: 11400000, guid: 1f9b0ecbfe82e75469ec2991929d3665, type: 2}
+  - {fileID: 11400000, guid: b3ffd9040d563f042b692f4f7bafc68d, type: 2}
+  - {fileID: 11400000, guid: b3ffd9040d563f042b692f4f7bafc68d, type: 2}
+  - {fileID: 11400000, guid: 1f9b0ecbfe82e75469ec2991929d3665, type: 2}
+  - {fileID: 11400000, guid: 652ceaaca413b664288792fb5122482f, type: 2}
+  - {fileID: 11400000, guid: baab15ee3848ec54192615b24ea85676, type: 2}
+  - {fileID: 11400000, guid: 005b59ee3a46dc547a28f9197ae6367a, type: 2}
+  - {fileID: 11400000, guid: 005b59ee3a46dc547a28f9197ae6367a, type: 2}
+  - {fileID: 11400000, guid: 005b59ee3a46dc547a28f9197ae6367a, type: 2}
+  - {fileID: 11400000, guid: 005b59ee3a46dc547a28f9197ae6367a, type: 2}
+  densityFactor: 0.182
