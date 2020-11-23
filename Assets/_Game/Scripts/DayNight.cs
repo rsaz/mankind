@@ -4,7 +4,7 @@ using UnityEngine.Experimental.Rendering.Universal;
 
 public class DayNight : MonoBehaviour
 {
-    [SerializeField] private Light2D sun;
+    [SerializeField] private Light2D sun = null;
     
     [SerializeField] private float dayDurationInMinutes= 1;
     [SerializeField] private float nightDurationInMinutes = 0.5f;
