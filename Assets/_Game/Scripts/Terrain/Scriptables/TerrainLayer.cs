@@ -42,23 +42,23 @@ public class TerrainLayer : ScriptableObject
         }
     }
 
-    public void DrawOutsideBoundaries(Tilemap tilemap, int width, int height, int offset, TileSortingMethod method = TileSortingMethod.Random)
+    public void DrawOutsideBoundaries(Tilemap tilemap, int width, int height, int offsetWidth, int offsetHeight, TileSortingMethod method = TileSortingMethod.Random)
     {
-        int newWidth = width+(offset*2);
-        int newHeight = height+(offset*2);
+        int newWidth = width+(offsetWidth*2);
+        int newHeight = height+(offsetHeight*2);
 
         for (int y = 0; y <= newWidth; y++) 
         {
             for (int x = 0; x <= newHeight; x++) 
             {
-                if(y >= offset && y < height + offset && x == offset) x = width+offset;
+                if(y >= offsetHeight && y < height + offsetHeight && x == offsetWidth) x = width+offsetWidth;
                     
                 Vector3Int coordinate = new Vector3Int(Mathf.FloorToInt(tilemap.transform.position.x) - ((newWidth+1)/2) + x, 
                         Mathf.FloorToInt(tilemap.transform.position.y) - ((newHeight)/2) + y, 0);
 
                 TileBase nextTile = sortTile.Generate(tiles, method);
 
-                if(densityFactor == 1 || (y == offset-1 || y == height+offset) && x > offset-1 && x < width+offset || (y > offset-1 && y < height+offset && (x == offset-1 || x == width+offset)))
+                if(densityFactor == 1 || (y == offsetHeight-1 || y == height+offsetHeight) && x > offsetWidth-1 && x < width+offsetWidth || (y > offsetHeight-1 && y < height+offsetHeight && (x == offsetWidth-1 || x == width+offsetWidth)))
                     tilemap.SetTile(coordinate, nextTile);
                 else if(Random.Range(0f, 1f) < densityFactor)
                     tilemap.SetTile(coordinate, nextTile);
