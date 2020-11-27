@@ -5,13 +5,13 @@ public class InGameMenuController : MonoBehaviour
     #region Fields
 
     [SerializeField]
-    private GameObject _playButton;
+    private GameObject _playButton = null;
 
     [SerializeField]
-    private GameObject _resumeButton;
+    private GameObject _resumeButton = null;
 
     [SerializeField]
-    private GameObject _menuContainer;
+    private GameObject _menuContainer = null;
 
     private bool _menuOpen = false;
 

@@ -11,19 +11,19 @@ public class SettingMenuController : MonoBehaviour
 
     [Tooltip("Main Audio Mixer")]
     [SerializeField]
-    private AudioMixer _audioMixer;
+    private AudioMixer _audioMixer = null;
 
     [SerializeField]
-    private Slider _volumeSlider;
+    private Slider _volumeSlider = null;
 
     [SerializeField]
-    private Toggle _fullscreenToggle;
+    private Toggle _fullscreenToggle = null;
 
     [SerializeField]
-    private TMP_Dropdown _qualityDropdown;
+    private TMP_Dropdown _qualityDropdown = null;
 
     [SerializeField]
-    private TMP_Dropdown _resolutionDropdown;
+    private TMP_Dropdown _resolutionDropdown = null;
 
     private Resolution[] _resolutions;
 

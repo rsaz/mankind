@@ -11,7 +11,7 @@ public class MainMenuController : MonoBehaviour
 
     [Tooltip("Setting that will be load when game starts")]
     [SerializeField]
-    private SettingMenuController _settings;
+    private SettingMenuController _settings = null;
 
     #endregion
 
