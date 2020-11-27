@@ -94,7 +94,7 @@ public class TerrainManager : MonoBehaviour
         #endif
 
         if(offBoundaryEnvironmentData) {
-            offBoundaryEnvironmentData.DrawOutsideBoundaries(tilemapOffBoundary, mapWidth+2, mapHeight+2, mapWidthOffset-1, mapHeightOffset-1, TileSortingMethod.Random);
+            offBoundaryEnvironmentData.DrawOutsideBoundaries(tilemapOffBoundary, mapWidth+4, mapHeight+4, mapWidthOffset-2, mapHeightOffset-2, TileSortingMethod.Random);
         }
         #if UNITY_EDITOR
             if(!offBoundaryEnvironmentData) Debug.LogError("No offBoundaryEnvironment layer settings assigned, skipping trees procedural generation outside map limits.");
