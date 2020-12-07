@@ -1,8 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Photon.Realtime;
+using Photon.Pun;
 
-public class PhotonManager : Photon.MonoBehaviour
+public class PhotonManager : MonoBehaviourPunCallbacks
 {
     public bool AutoConnect = true;
     public byte Version = 1;
@@ -14,12 +16,12 @@ public class PhotonManager : Photon.MonoBehaviour
 
     public virtual void Start()
     {
-        PhotonNetwork.autoJoinLobby = false;
+        //PhotonNetwork.autoJoinLobby = false;
     }
 
     public virtual void Update()
     {
-        if (ConnectInUpdate && AutoConnect && !PhotonNetwork.connected)
+        if (ConnectInUpdate && AutoConnect && !PhotonNetwork.IsConnected)
         {
             ConnectInUpdate = false;
             PhotonNetwork.ConnectUsingSettings(null); // + "." + SceneManagerHelper.ActiveSceneBuildIndex
@@ -37,14 +39,15 @@ public class PhotonManager : Photon.MonoBehaviour
     }
 
     public virtual void OnJoinedRoom()
-    {       
+    {   
+        /*
         var player = PhotonNetwork.Instantiate(playerPrefab.name, 
             terrainManager.RandomCellPosition(PhotonNetwork.player.ID), Quaternion.identity, 0) as GameObject;
 
         if (player)
         {
             player.GetComponent<PlayerController>().VirtualCameraV1.Follow = player.transform; 
-        }
+        }*/
     }
 
 }

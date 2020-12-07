@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Photon.Pun;
 
 public class StatusWhenConnecting : MonoBehaviour
 {
@@ -21,11 +22,11 @@ public class StatusWhenConnecting : MonoBehaviour
         GUILayout.BeginArea(centeredRect, GUI.skin.box);
         {
             GUILayout.Label("Connecting" + GetConnectingDots(), GUI.skin.customStyles[0]);
-            GUILayout.Label("Status: " + PhotonNetwork.connectionStateDetailed);
+            GUILayout.Label("Status: " + PhotonNetwork.IsConnected);
         }
         GUILayout.EndArea();
 
-        if (PhotonNetwork.inRoom)
+        if (PhotonNetwork.InRoom)
         {
             enabled = false;
         }

@@ -1,9 +1,0 @@
-diff a/Assets/Photon Unity Networking/Resources/PhotonServerSettings.asset b/Assets/Photon Unity Networking/Resources/PhotonServerSettings.asset	(rejected hunks)
-@@ -15,6 +15,7 @@
-   AppID: 6f07d691-a728-4df4-8ba6-7b2250b75480
-   VoiceAppID: 
-   ChatAppID: 
-+  HostType: 4
-   PreferredRegion: 0
-   EnabledRegions: 64
-   Protocol: 0
